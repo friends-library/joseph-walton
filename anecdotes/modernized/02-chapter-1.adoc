@@ -111,6 +111,9 @@ after speaking of several stages in the great reformation in the Christian churc
 from the darkness and corruption which at one time had overspread it,
 says:
 
+[.embedded-content-document]
+--
+
 The eternal,
 wise and good God was pleased in his infinite love to honor
 and visit this benighted and bewildered nation +++[+++England]
@@ -150,6 +153,8 @@ notwithstanding all the opposition made to their blessed progress, by false rumo
 calumnies, and bitter persecutions;
 so that they seemed indeed to be as poor sheep appointed to the slaughter.
 
+--
+
 The rapid growth of the Society of Friends was due mainly to the secret,
 Divine power of Jesus Christ,
 without which there is no quickening and regenerating of dead souls.
@@ -163,7 +168,11 @@ as God`'s gift for man`'s salvation.
 "`This,`" says William Penn,
 "`Is as the root of the goodly tree of doctrines that grew and branched out from it.`"
 
+[.offset]
 George Fox has left the following testimony:
+
+[.embedded-content-document]
+--
 
 When the Lord God and his Son Jesus Christ sent me forth
 into the world to preach his everlasting Gospel and kingdom,
@@ -172,14 +181,22 @@ by which all might know their salvation and their way to God;
 even that Divine spirit which would lead them into all Truth,
 and which I infallibly knew would never deceive any.
 
+--
+
+[.offset]
 In harmony with these declarations is that of Francis Howgill,
 an eminent minister among our early Friends, who says:
+
+[.embedded-content-document]
+--
 
 God has brought us forth in our age, to bear witness unto Him, and unto that life,
 power and light, by which we are quickened and raised out of the grave of sin and death,
 to live unto Him, and serve Him in newness of life;
 and to confess unto his holy name and power by which we are saved,
 illuminated and directed.
+
+--
 
 While our primitive Friends were thus careful to call the attention of the people
 to the transforming and regenerating work of the spirit of Christ,
@@ -301,8 +318,12 @@ whose voice was as thunder from the clouds, with words penetrating as lightning.
 He adds: "`Many of them were struck with amazement and surprise,
 and their eyes were filled with tears.`"
 
+[.offset]
 His Journal mentions his having been at Oxford on a previous occasion.
 He says:
+
+[.embedded-content-document]
+--
 
 I went into that city on a First-day morning, in great fear and humility,
 being a stranger to all Friends there, and sat me down in a corner of the meetinghouse.
@@ -331,8 +352,14 @@ they preach against the true knowledge of the living God, and life eternal.
 And so went on preaching as it opened in me: the scholars went away quietly,
 and the meeting ended in prayer to Almighty God.
 
+--
+
+[.offset]
 When travelling in Ireland, Thomas Wilson attended the Province Meeting at Castle Dermot.
 He says:
+
+[.embedded-content-document]
+--
 
 It was large, and various able Friends in the ministry were there;
 but I was very low in my mind, and did not go up into the gallery,
@@ -347,6 +374,8 @@ The rude rabble were astonished, and became very quiet,
 and the Lord`'s heavenly power did shine forth gloriously,
 under a weighty sense whereof the meeting held and concluded.
 
+--
+
 His dear friend and travelling companion, James Dickinson, relates that,
 when they were journeying in Wales, an informer "`Came to Haverford West,
 with a justice to assist him.
@@ -355,8 +384,13 @@ that the justice said: '`If these be the Quakers, I never heard the like.
 Let them alone.`' In the time of this journey many
 were convinced and turned to the Lord`'s teaching.`"
 
-In the [.book-title]#Life of Jane Hoskins#, she mentions being at a meeting with Thomas Wilson in 1714,
+[.offset]
+In the [.book-title]#Life of Jane Hoskins#, she mentions being at a meeting
+with Thomas Wilson in 1714,
 at Plymouth, Pa. She says:
+
+[.embedded-content-document]
+--
 
 He spoke largely on the passage of the captive maid,
 and her service to her Lord and Master,
@@ -381,6 +415,8 @@ She is like the little captive maid I have been speaking of this day.
 May the God of my life strengthen her.
 She will meet with sore trials, but if she is faithful,
 the Lord will fit her for his service.`"
+
+--
 
 The experience of George Fox was similar to that of Thomas Wilson.
 He passed through many exercises and conflicts of spirit
@@ -441,6 +477,9 @@ This set them all on fire.`"
 When in the vale of Beavor, one morning, as he was sitting by the fire,
 a temptation beset him, which he thus narrates:
 
+[.embedded-content-document]
+--
+
 It was said, "`All things come by nature;`" and the elements and stars came over me,
 so that I was in a manner quite clouded with it.
 But as I sat still and said nothing, the people of the house perceived nothing.
@@ -454,8 +493,13 @@ I had a great dispute with them, and overturned them, and made some of them conf
 that there is a living God.
 Then I saw that it was good that I had gone through that exercise.
 
+--
+
+[.offset]
 This incident suggests the following lines by J. G. Whittier:
 
+[verse]
+____
 Still, as of old in Beavor`'s Vale,
 O man of God! our hope and faith
 The elements and stars assail,
@@ -527,12 +571,16 @@ Of nature smiles; through all her things
 Of time and space and sense I trace
 The moving of the Spirit`'s wings,
 And hear the song of hope she sings.
+____
 
 During the three years, 1646, 1647 and 1648, many were convinced,
 and various meetings of Friends were established.
 George Fox`'s labors at that period appear to have been chiefly in Nottinghamshire,
 Derbyshire and Leicestershire, in the central parts of England.
 The message he was constrained to deliver he thus describes:
+
+[.embedded-content-document]
+--
 
 I was sent to turn people from darkness to the light,
 that they might receive Christ Jesus; for to as many as should receive Him in his light,
@@ -549,6 +597,8 @@ and enlightened all men and women with his Divine and saving light,
 and that none could be true believers but those who believed therein.
 I saw that the grace of God, which brings salvation, had appeared to all men,
 and that the manifestation of the Spirit of God was given to every man to profit withal.
+
+--
 
 At Nottingham,
 he attended a meeting in the "`steeple-house,`" when
@@ -621,6 +671,9 @@ At Ulverston and Swarthmore, among those who were convinced, was the family of J
 His wife, Margaret Fell, who, some years after her husband`'s death, married George Fox,
 has left a graphic account of the first sermon he preached at Ulverston "`steeple-house.`"
 
+[.embedded-content-document]
+--
+
 When they were singing, before the sermon, he came in, and when they had done singing,
 he stood upon a seat or form, and desired that he might have liberty to speak,
 and he that was in the pulpit said he might.
@@ -641,6 +694,8 @@ Are you a child of light and have walked in the light,
 and what you speak is it inwardly from God?`"--etc.; this opened me so,
 that it cut me to the heart, and then I saw clearly we were all wrong.
 So I sat down in my pew again and cried bitterly.
+
+--
 
 She goes on to say that there was a great convincement in those parts,
 meetings were settled, and during the year he continued to labor there alone,
@@ -701,6 +756,9 @@ and against the works of darkness.`"
 After some time he was sent for to Whitehall, the residence of Oliver Cromwell.
 His account of the interview is interesting:
 
+[.embedded-content-document]
+--
+
 When I came in I was moved to say:
 "`Peace be in this house;`" and I exhorted him to keep in the fear of God,
 that he might receive wisdom from Him; that by it he might be ordered,
@@ -727,6 +785,8 @@ wished me no more ill than he did to his own soul.`"
 I admonished him to hearken to God`'s voice,
 that he might stand in his counsel and obey it; and if he did so,
 that would keep him from hardness of heart.
+
+--
 
 Cromwell was convinced that he had nothing to fear
 from any plots by George Fox and his friends,
@@ -763,6 +823,9 @@ which shows the zeal of Edward Burrough,
 and his readiness to lay hold of all opportunities to preach the Gospel,
 when called of the Lord so to do:
 
+[.embedded-content-document]
+--
+
 At London there is a custom, in summer time,
 when the evening approaches and tradesmen leave off working,
 that many lusty fellows meet in the fields to try their skill and strength in wrestling,
@@ -796,6 +859,8 @@ And, indeed,
 he was one of those valiants whose bow never turned
 back nor sword empty from the slaughter of the mighty;
 for the Lord blessed his powerful ministry with very glorious success.
+
+--
 
 His bosom friend, Francis Howgill, after his decease, gave forth a testimony to him,
 in which he speaks of him as one that had turned many to righteousness,
@@ -838,12 +903,16 @@ and thus preparing the ground for the reception of the seed of the kingdom.
 He says that, about the year 1654, many were seeking after the Lord.
 The account he gives of the visit of John Camm and John Audland to Bristol,
 is interesting and instructive.
-It is headed A Testimony to the Visitation of the Love of God to the City of Bristol,
+It is headed __A Testimony to the Visitation of the Love of God to the City of Bristol,
 and Adjacent Parts,
 and to the Mighty Power of the Lord Appearing In and With His Two Precious Servants,
-John Camm and John Audland, Who Came to that City in the Year 1654.
+John Camm and John Audland, Who Came to that City in the Year 1654.__
 
+[.offset]
 It commences in this manner:
+
+[.embedded-content-document]
+--
 
 After the long and tedious night of apostasy and dismal darkness spread over the people,
 it pleased the Lord of heaven and earth to visit this island,
@@ -956,6 +1025,8 @@ Our meetings were so large that we were forced to meet out of doors,
 and that in frost and snow;
 and in those meetings the voices of these servants of God reached over
 the multitudes when several thousands have been assembled together.
+
+--
 
 The sixty ministers who, as has been mentioned,
 went forth from the north about this time, spread themselves over almost all England,

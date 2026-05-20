@@ -8,6 +8,9 @@ and that many of its practices are not consistent
 with the purity inculcated by the religion of Christ.
 George Fox says, in his Journal:
 
+[.embedded-content-document]
+--
+
 When the Lord sent me into the world, He forbade me to put off my hat unto any,
 high or low, and I was required to "`thee and thou`" all men and women,
 without any respect to rich or poor, great or small.
@@ -43,7 +46,13 @@ and that by the great professors of Christianity.
 And though it was but a small thing in the eye of man,
 yet a wonderful confusion it brought among all professors and priests.
 
+--
+
+[.offset]
 William Penn, in speaking of Friends, says:
+
+[.embedded-content-document]
+--
 
 Not to respect persons was another of their doctrines and practices,
 for which they were often buffeted and abused.
@@ -53,6 +62,8 @@ though to virtue and authority they ever made a difference,
 but after their plain and homely manner.
 They also used the plain language of "`Thou`" and "`Thee`" to a single person,
 whatever was his degree among men.
+
+--
 
 Robert Barclay, in his Apology, Proposition XV, unfolds, to some extent,
 the grounds of the objections felt by Friends to titles of honor and vain compliments:
@@ -113,6 +124,9 @@ his refusal to conform to the usual custom.
 On one occasion, when George Fox and his friends were taken into court,
 they stood with their hats on, and the Journal narrates that:
 
+[.embedded-content-document]
+--
+
 Judge Glyn, a Welshman, then chief justice of England, said to the jailer:
 "`What be these you have brought here into the court?`"
 "`Prisoners, my lord,`" said he.
@@ -141,6 +155,8 @@ cast into the fiery furnace by Nebuchadnezzar`'s command,
 with their coats, their hose and their hats on.`"
 This plain instance stopped him; so that, not having anything else to the point,
 he cried again: "`Take them away, jailer!`"
+
+--
 
 In the early history of Pennsylvania there is an incident recorded,
 which shows the carefulness of Friends to maintain their testimony on this point,
@@ -174,10 +190,15 @@ on their religious liberty secured to them by law and charter,
 and requesting the governor that he would consider it as such,
 and for the future be pleased to direct that all such impositions might be avoided.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 The Humble Address of the People Called Quakers,
 by Appointment of their Quarterly Meeting Held Second of Third Month, 1725,
 for the City and County of Philadelphia.
 
+[.salutation]
 May it please the Governor.
 
 Having maturely considered the inconveniences and hardships,
@@ -242,15 +263,23 @@ that we and our Friends should at all times be excused in this government,
 from any compliances against our conscientious persuasions,
 and humbly request that he would, for the future, account it as such to us.
 
+[.signed-section-closing]
 Your assured well-wishing friends,
 
+[.signed-section-closing]
 Signed by appointment of the said meeting.
 
+[.signed-section-signature]
 Richard Hill, Richard Hayes, Morris Morris, Anthony Morris, Evan Evans, John Goodson,
 Rowland Ellis, Rees Thomas, Samuel Preston, William Hudson
 
+--
+
 The entry on the record of the court of chancery made by order of the governor,
 on receiving the above address, follows:
+
+[.embedded-content-document]
+--
 
 On consideration had of the humble address, presented to the Governor,
 this day read in open Court, from the Quarterly Meeting of the people called Quakers,
@@ -270,6 +299,8 @@ but shall be taken only as an act of conscientious liberty,
 of right appertaining to the religious persuasion of the said people,
 and agreeable to their practice in all the civil affairs of life.
 
+--
+
 The use of the plural pronoun,
 "`you,`" in speaking to a single person was one of those
 corruptions which our Society was forced to abandon.
@@ -288,12 +319,18 @@ together with the other titles and appellations of honor,
 seem to have taken their rise from monarchical governments;
 which afterwards by degrees came to be accorded to private persons.
 
+[.offset]
 He quotes also from one of the French Academicians:
+
+[.embedded-content-document]
+--
 
 The use of the word "`you,`" when one person is spoken to was only
 introduced by the base flatterers of men of latter ages,
 to whom it seemed good to use the plural number to one person,
 that he may imagine himself alone to be equal to many others in dignity and worth.
+
+--
 
 At the time of the rise of our Society, it was the custom to say "`you`" to a superior,
 but "`thee`" and "`thou`" to a servant or inferior.
@@ -305,6 +342,9 @@ great or small.`"
 In 1665, George Fox, then incarcerated in Scarborough Castle,
 and the subject of much interest there, being visited by many people of rank and station,
 thus speaks:
+
+[.embedded-content-document]
+--
 
 There came to me another time the widow of old lord Fairfax,
 and with her a great company, one of whom was a priest.
@@ -323,6 +363,8 @@ and made the grammar and accidence so,
 I wished him to consider whether they were not fools and idiots themselves,
 that did not speak as their grammar and Bible taught them; but were offended with us,
 and called us fools and idiots for speaking so.
+
+--
 
 It was fully in accord with the Scripture injunction
 against adorning the person with splendid attire,
@@ -344,7 +386,11 @@ And three years later, he says:
 "`Keep out of the vain fashions of the world in your apparel,
 and run not after every new fashion that the world sets up.`"
 
+[.offset]
 That eminent minister, John Fothergill, records:
+
+[.embedded-content-document]
+--
 
 When I was about twelve or thirteen years old, which was after my mother`'s decease,
 a strong inclination took place in me to have a coat made with
@@ -368,7 +414,13 @@ does appear against and reprove the very conception of such vain desires and inc
 and would lead and preserve out of them, if people did but attend thereto,
 and labor honestly to bear the cross of Christ in this respect.
 
+--
+
+[.offset]
 John Woolman records in his Journal that:
+
+[.embedded-content-document]
+--
 
 At our Yearly Meeting in Philadelphia, on the twenty-fifth day of the Ninth Month, 1764,
 John Smith, of Marlborough, aged upwards of eighty years, a faithful minister,
@@ -395,8 +447,13 @@ and that the weakness which had overspread the Society
 and the barrenness manifest among us,
 is matter of much sorrow.`"
 
+--
+
 John Banks, one of the early ministers in the Society of Friends,
 in a testimony to the Truth, which he gave forth about the year 1671, says:
+
+[.embedded-content-document]
+--
 
 The practice of the world is to change from fashion to fashion, in pride of apparel,
 foods and drinks, to see who can exceed each other in pride and high-mindedness.
@@ -407,10 +464,15 @@ as they of the world are,
 nor to wear anything but what becomes the Truth and
 may tend to adorn the Gospel of our Lord Jesus Christ.
 
+--
+
 Joseph Pike, who had been preciously visited by the spirit of the Lord when quite young,
 says that, when at fourteen or fifteen years of age,
 he was more allured by the pleasures and vanities of the world.
 Among other things, he says:
+
+[.embedded-content-document]
+--
 
 I was inclined to take pleasure in fine apparel and the likes, as I could get them,
 of which I remember a particular instance.
@@ -425,10 +487,15 @@ He was not proud and high.
 Will you, poor worm, be high and proud of yourself or clothes?`"
 These thoughts so wounded my spirit that I went home very sorrowful and dejected.
 
+--
+
 That the spirit of Truth does condemn the desire for gay and fine clothing,
 has been the experience of many.
 William Jackson, an honored minister of the Gospel, who lived in Chester County,
 Pennsylvania, in a conversation with a friend, related the following incident:
+
+[.embedded-content-document]
+--
 
 He said his parents were religious Friends,
 much concerned to bring up their children in the
@@ -459,8 +526,14 @@ which was much plainer than I had ever worn; and as I had occasion for new cloth
 I had the rest made to suit it, and I have never made any change since,
 nor had any desire to do so.`"
 
+--
+
+[.offset]
 The testimony of Birmingham Monthly Meeting, Pennsylvania,
 respecting the late James Emlen, says:
+
+[.embedded-content-document]
+--
 
 A few weeks previous to his decease,
 in conversing with a friend relative to one period of his life,
@@ -478,6 +551,8 @@ He remarked that this was a great trial to him, but the peace which followed,
 amply compensated for the sacrifice.
 He was sensible, he said, that the work of religion was going on in his heart,
 before he made any change in his personal appearance or in his mode of language.
+
+--
 
 In the year 1683, Friends at Norwich, Eng+++.+++,
 were under severe sufferings on account of their faithfulness to
@@ -497,6 +572,9 @@ Charles treated them kindly and courteously, and entered into conversation with 
 He asked them why they said "`thou`" and "`thee.`"
 To which Gilbert Latey made answer:
 
+[.embedded-content-document]
+--
+
 The same reason as the apostle Paul, when speaking to king Agrippa, he says,
 I think myself happy, king Agrippa, that I shall answer for myself before thee,
 especially because I know thou art expert in all customs, etc.
@@ -514,6 +592,8 @@ To which Gilbert answered: "`If to any mortal,
 then to the king in the first place;`" but it is a matter of conscience,
 and "`we only do it when we approach the Lord in prayer.`"
 
+--
+
 After some further conversation, in which part of the nobles took a share,
 the Friends withdrew,
 but not until George Whitehead again entreated the
@@ -529,6 +609,9 @@ she was under deep religious conviction,
 and felt it required of her to become plain in her attire;
 at the same time she was distressed with the fear of running too fast.
 She says:
+
+[.embedded-content-document]
+--
 
 One day, being retired, I threw myself on the bed,
 and taking up the Bible that lay by the side of it,
@@ -599,8 +682,13 @@ and shortly after left the company and retired to my chamber,
 where I gave vent to many tears, and earnestly besought forgiveness for what I had done;
 after which I felt a little quiet.
 
+--
+
 When Thomas Story came under religious conviction,
 and was constrained to decline many things he had before practiced, he says:
+
+[.embedded-content-document]
+--
 
 Some of my friends got together in a tavern, and my father with them,
 intending to have me among them to drink a hearty glass,
@@ -651,6 +739,8 @@ did I impute it.
 The company dispersing,
 I returned to my chamber in Divine peace and true tranquillity of mind,
 with which I was favored for many days.
+
+--
 
 It is recorded of Gilbert Latey that,
 having enlisted himself under the banner of the Lord,
@@ -711,7 +801,11 @@ they always admire the conduct of those who consistently carry out the views the
 The Friend who transcribed the foregoing incident, Fifth Month 19th, 1850,
 had the account from the young man himself.
 
+[.offset]
 Charles Marshall records:
+
+[.embedded-content-document]
+--
 
 The visit of God`'s holy and ever-blessed day was eminent; and in his fear and dread,
 we received the Gospel with a ready mind, and with broken hearts,
@@ -731,8 +825,13 @@ Our concern, night and day, was to obtain, through Jesus Christ,
 the great work of salvation, and thereby,
 an assurance of the everlasting rest and Sabbath of our God.
 
+--
+
 The Journal of Thomas Chalkley contains the following narrative of his
 care to observe the testimonies of our Society as to plainness:
+
+[.embedded-content-document]
+--
 
 Thinking it convenient to send our little children to school,
 and not having a schoolmaster of our Society near us,
@@ -741,8 +840,10 @@ to whom I thought it my duty to write a few lines about the salutations
 and language I would have them trained up in,
 which were as follows:
 
+[.signed-section-context-open]
 Frankfort, thirtieth of Fifth Month, 1727.
 
+[.salutation]
 Loving friend, Nathaniel Walton:
 
 I hope thou wilt excuse the freedom I take with thee
@@ -769,6 +870,8 @@ and bring in and uphold a custom contrary to it?
 The same care I would have thee take about the names of the days and months,
 which are derived from the names of the gods of the heathen,
 and are not found in the Bible.
+
+--
 
 When Joseph Pike, of Cork, Ireland, was engaged in business,
 many opportunities of enriching himself by speculative enterprises were offered to him.
@@ -813,6 +916,9 @@ though there are few evils that have more cloaks and coverings than this has.`"
 The late John Barclay, of Croydon, Eng+++.+++, although brought up in a fashionable manner,
 believed it his duty to live plainly and simply.
 On the twenty-fourth of Twelfth Month, 1836, he wrote to a young friend:
+
+[.embedded-content-document]
+--
 
 Picture to yourself any set of people raised up to a deep sense of religion,
 and carrying out their watchfulness and self-denial to all branches of their conduct,
@@ -880,6 +986,8 @@ nor anything to be slighted as insignificant,
 which in any wise contributed to this heavenly peace and
 progress in what was esteemed so supremely excellent.
 
+--
+
 The Journal of Thomas Chalkley alludes to the dealings
 of the Lord with him when in very childhood,
 recurring to the various exercises and trials which
@@ -889,7 +997,11 @@ being thus known as a "`Quaker,`" and that often on his way to and from school,
 he was stoned and beaten,
 "`Several telling me it was no more sin to kill me than it was to kill a dog.`"
 
+[.offset]
 Thomas Chalkley relates the following:
+
+[.embedded-content-document]
+--
 
 One time I remember being among some men, one of whom I had reproved,
 and he told the rest of it,
@@ -909,7 +1021,13 @@ and wondered that I, being so young, should speak in such a manner.
 In which, I remember, I had great peace and good satisfaction.
 And from thenceforth these men let me alone.
 
+--
+
+[.offset]
 His Journal goes on to say:
+
+[.embedded-content-document]
+--
 
 Notwithstanding I hated to hear wicked words, I loved play exceedingly,
 being persuaded that there was no harm in it, if we used no bad words.
@@ -930,11 +1048,16 @@ and without the knowledge of my tender parents,
 for I was afraid of their reproofs and corrections, the which I was sure to have,
 if they had any intelligence of it.
 
+--
+
 He mentions at one time being at his uncle`'s, where he had gone on a visit,
 taking with him a pack of cards which he had purchased,
 but on his way he attended a meeting,
 in which the minister declared against the evil of gaming, particularly of cards.
 He says:
+
+[.embedded-content-document]
+--
 
 From this meeting at Wanstead I went to the house of my relations,
 where the parson of the next parish lodged that night,
@@ -950,7 +1073,13 @@ Then my uncle called again, and said: "`Come, doctor, you and I, my wife and dau
 will have a game of cards, for I see my cousin is better disposed.`"
 Then he looked upon me, and said he was better disposed also.
 
+--
+
+[.offset]
 He goes on to say:
+
+[.embedded-content-document]
+--
 
 So their sport, for that time, was spoiled, and mine, in that practice, forever,
 for I never, as I remember, played with them more, but as soon as I came home,
@@ -958,7 +1087,13 @@ offered my new and untouched pack of cards to the fire.
 I am certain the use of them is of evil consequence,
 and draws away the mind from heaven and heavenly things.
 
+--
+
+[.offset]
 Mary Alexander states:
+
+[.embedded-content-document]
+--
 
 At this time, while young,
 I was favored to receive much comfort in reading the Holy Scriptures,
@@ -986,7 +1121,13 @@ I never more read a page in that, or anything of the like kind.
 I have often thought those few words were indeed,
 "`Like apples of gold in pictures of silver.`"
 
+--
+
+[.offset]
 A writer in _The British Friend_, says:
+
+[.embedded-content-document]
+--
 
 The plain language of Friends, like their plain dresses,
 has been of much use in preserving them from the follies and temptations of the world.
@@ -1024,6 +1165,8 @@ the lawyer who conducted the prosecution against
 him "`thou`'ed`" him in a very bitter speech,
 saying in the course of it: "`I '`thou`' thee, thou traitor.`"
 
+--
+
 Thomas Elwood joined Friends in his youth, very much against the will of his father,
 who persecuted him sorely for adopting the Quakers`' unfashionable and impolite peculiarities,
 such as refusing to take off his hat in his father`'s presence,
@@ -1033,6 +1176,9 @@ and was obliged to go about bareheaded; and after his hats were all gone,
 and it became impossible for him to offend more in that way,
 he was hardly a bit better off,
 for he could not speak to his father without offending him:
+
+[.embedded-content-document]
+--
 
 I dared not, +++[+++writes Thomas,]
 say "`you`" to him, but "`thou`" or "`thee,`" as the occasion required,
@@ -1050,12 +1196,17 @@ when thou sayest '`Thou`' or '`Thee`' to Him?`"
 Though his hand was up, I saw it sink, and his countenance fall,
 and he turned away and left me standing there.
 
+--
+
+[.offset]
 Samuel Neale, when a young man,
 accompanied Garratt Van Hassan on a religious visit in Ireland.
 He says:
 
-// lint-disable invalid-characters
-On our return we called at Christians’-town, and stayed a few nights there,
+[.embedded-content-document]
+--
+
+On our return we called at Christianstown, and stayed a few nights there,
 where I met with a remarkable occurrence:
 I had been used in former times to walk out with my gun and dog;
 it was a retired way of amusing myself, in which I thought there was no harm;
@@ -1077,9 +1228,14 @@ and I concluded to give up everything of the kind,
 and take up my daily cross and follow the leadings of the Lamb,
 who takes away the sins of the world.
 
+--
+
 John Thorp, the day before his peaceful close,
 related to his family the following circumstance, which occurred in his youth.
 He said:
+
+[.embedded-content-document]
+--
 
 When a boy, about fourteen years of age, my attachment to music was such,
 that when walking in the lanes and fields on an evening,
@@ -1088,6 +1244,8 @@ even after my mind became uneasy with the practice, until,
 in one of my solitary evening walks, and when in the act of singing, I heard, as it were,
 a voice distinctly say: "`If you will discontinue that gratification,
 you shall be made partaker of a much more perfect harmony.`"
+
+--
 
 Such was the powerful and convincing effect of this solemn and awful communication, that,
 he added, he never afterwards indulged in the practice.
@@ -1109,6 +1267,9 @@ at which J. B. rode to them, and sat on his horse very still and quiet;
 then returning again with more speed than he went,
 J+++.+++ C. asking him what he saw among those old posts, he answered:
 
+[.embedded-content-document]
+--
+
 I would not have missed of what I saw for five pounds;
 for I saw the root and grounds of idolatry.
 Before I went,
@@ -1118,6 +1279,8 @@ whom I believe to be a good man; but while I stood there, I was secretly informe
 that if George Fox was a good man, he was in heaven, and not there,
 and virtue is not to be communicated by dead things, whether posts, earth,
 or curious pictures, but by the power of God, who is the Fountain of living virtue.
+
+--
 
 A lesson which, if rightly learned,
 would wean from the worship of images and adoration of relics.
@@ -1129,6 +1292,9 @@ but had then been deceased about a month.
 He +++[+++J. C.]
 called to see the widow and children,
 and she gave him in substance the following account of J. B.:
+
+[.embedded-content-document]
+--
 
 "`My husband was not long sick, but said he believed he should not recover,
 and charged me to endeavor that his children should be brought up in the way of Truth,
@@ -1162,6 +1328,8 @@ did they but live so near the pure truth as to feel the mind thereof,
 as I fully believe this our friend did,
 knowing that the name of the righteous will not perish,
 but be had in everlasting remembrance, because their portion is life forevermore.
+
+--
 
 Bishop Nicholson, with a company of priests, called at John Roberts`',
 who invited him to come into his house; but the bishop declined,
@@ -1322,6 +1490,9 @@ issuing an address from the press,
 under the title of [.book-title]#Encouragement to All to Trust in the Lord#.
 In this document he remarks:
 
+[.embedded-content-document]
+--
+
 You see what entertainment the Lord of glory had when He came into the world--a manger,
 instead of a cradle;
 and when He went out of the world the Scripture does
@@ -1352,9 +1523,14 @@ who will give you life abundantly, who is from above and not from below.
 That you may be built upon Him, the living rock, and the foundation of God stands sure.
 Amen, amen, says my soul.
 
+--
+
 The testimony of William Edmundson as to the concern that rested on the minds of early
 Friends to be preserved from the inroads of any worldly spirit is instructive.
 He says:
+
+[.embedded-content-document]
+--
 
 At the first, when the Lord called and gathered us to be a people,
 and opened the eyes of our understandings, then we saw the exceeding sinfulness of sin,
@@ -1374,3 +1550,5 @@ under the discipline of his daily cross and self-denial.
 Then the things of this world were of small value with us, so that we might win Christ,
 and the goodliest things thereof were not near us, so that we might be near the Lord;
 for the Lord`'s Truth outbalanced all the world, even the most glorious part of it.
+
+--
