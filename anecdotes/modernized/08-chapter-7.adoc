@@ -4,6 +4,9 @@ In his biography of William Penn,
 William Hepworth Dixon speaks of the famous trial of Penn and Mead,
 as one which had an important bearing in the promotion of civil liberty in Great Britain:
 
+[.embedded-content-document]
+--
+
 The great question agitating the country at that time was
 liberty of conscience--with its consequence--free worship.
 The church of England was alarmed.
@@ -97,6 +100,8 @@ secured to the nation by the ancient constitution?
 A most important point in itself;
 and dear to England were the interests which hung on the result.
 
+--
+
 The trial itself was an instructive exhibition of arbitrary proceedings on the part
 of the courts and of courageous defense of their right on the parts of the prisoners.
 William Penn said:
@@ -157,6 +162,9 @@ when they rendered a clear verdict of not guilty as to both defendants.
 
 Finding the jury impracticable, the court fined them forty marks a man,
 and imprisonment in Newgate till the fines be paid.
+
+[.embedded-content-document]
+--
 
 Prisoner and jurors alike, refused to pay the fines--the first as a matter of conscience,
 the second, because, under the influence of Edward Bushel,
@@ -250,6 +258,8 @@ which informs the brain and nerves the heart of the English people.
 Driven from the court, the legislative assembly, and the bench of justice,
 the spirit of Puritan Democracy found an impregnable citadel in the jury-room.
 
+--
+
 After the failure of the court to convict William Penn and William Mead,
 through the courage of the jury,
 the lieutenant of the tower was determined that William Penn should be made to suffer,
@@ -262,26 +272,34 @@ To this William Penn replied that this act could not concern him,
 for the preamble of the act shows that it was designed for those in orders,
 and that he had never been.
 
-John Robinson.--Will you swear?
+[.discourse-part]
+__John Robinson__--Will you swear?
 Will you take the oath that the act requires of you?
 
-W+++.+++ P.--That is not to the purpose.
+[.discourse-part]
+__William Penn__--That is not to the purpose.
 
-J+++.+++ R.--Will you take it or no?
+[.discourse-part]
+__John Robinson__--Will you take it or no?
 
-W+++.+++ P.--Why need I take an oath not to do that which is my faith not to do,
+[.discourse-part]
+__William Penn__--Why need I take an oath not to do that which is my faith not to do,
 so far as concerns the king?
 
-Lieutenant Price.--Then swear it.
+[.discourse-part]
+__Lieutenant Price__--Then swear it.
 
-W+++.+++ P.--The oath in that respect is already answered to all intents and purpose;
+[.discourse-part]
+__William Penn__--The oath in that respect is already answered to all intents and purpose;
 for if I can`'t fight against any man (much less against the king),
 what need I take an oath not to do it?
 Should I swear not to do what is already against my conscience to do?
 
-J+++.+++ R.--You won`'t take the oath, then?
+[.discourse-part]
+__John Robinson__--You won`'t take the oath, then?
 
-W+++.+++ P.--What if I refuse the oath,
+[.discourse-part]
+__William Penn__--What if I refuse the oath,
 not because of the matter contained in it (which
 only can criminate in the sense of the act),
 but of scrupling any oath?
@@ -290,51 +308,68 @@ Shall I therefore be committed to prison?
 Therefore the denying to swear, where there is a denial to fight or plot,
 is no equitable ground for commitment.
 
-J+++.+++ R.--Do you refuse to swear?
+[.discourse-part]
+__John Robinson__--Do you refuse to swear?
 
-W+++.+++ P.--Yes, and that upon better grounds than those for which you would have me swear.
+[.discourse-part]
+__William Penn__--Yes, and that upon better grounds than those for which you would have me swear.
 
-J+++.+++ R.--I am sorry you should put me upon this severity.
+[.discourse-part]
+__John Robinson__--I am sorry you should put me upon this severity.
 It is no pleasant work to me.
 
-W+++.+++ P.--These are but words.
+[.discourse-part]
+__William Penn__--These are but words.
 It is manifest that this is a prepense malice;
 you have several times laid the meetings for me, and this day particularly.
 
-J+++.+++ R.--No, I profess I could not tell you would be there.
+[.discourse-part]
+__John Robinson__--No, I profess I could not tell you would be there.
 
-W+++.+++ P.--Your own corporal told me, that you had intelligence at the tower,
+[.discourse-part]
+__William Penn__--Your own corporal told me, that you had intelligence at the tower,
 that I would be at Wheeler Street today, almost as soon as I knew it myself.
 It is disingenuous and partial.
 I never gave you occasion for such unkindness.
 
-J+++.+++ R.--I knew no such thing: but if I had, I confess I should have sent for you.
+[.discourse-part]
+__John Robinson__--I knew no such thing: but if I had, I confess I should have sent for you.
 
-W+++.+++ P.--That might have been spared: I do heartily believe it.
+[.discourse-part]
+__William Penn__--That might have been spared: I do heartily believe it.
 
-J+++.+++ R.--I vow, Mr. Penn, I am sorry for you; you are an ingenious gentleman,
+[.discourse-part]
+__John Robinson__--I vow, Mr. Penn, I am sorry for you; you are an ingenious gentleman,
 all the world must allow you, and does allow you that; and you have a plentiful estate;
 why should you render yourself unhappy by associating with such a simple people?
 
-W+++.+++ P.--I confess I have made it my choice,
+[.discourse-part]
+__William Penn__--I confess I have made it my choice,
 to relinquish the company of those that are ingeniously wicked,
 to converse with those that are more honestly simple.
 
-J+++.+++ R.--I wish you wiser.
+[.discourse-part]
+__John Robinson__.--I wish you wiser.
 
-W+++.+++ P.--And I wish you better.
+[.discourse-part]
+__William Penn__--And I wish you better.
 
-J+++.+++ R.--You have been as bad as other folks.
+[.discourse-part]
+__John Robinson__--You have been as bad as other folks.
 
-W+++.+++ P.--When and where?
+[.discourse-part]
+__William Penn__--When and where?
 I charge you to tell the company to my face.
 
-J+++.+++ R.--Abroad, and at home too.
+[.discourse-part]
+__John Robinson__--Abroad, and at home too.
 
-Sir John Sheldon, as is supposed.--No, sir John, that`'s too much,
-or words to that purpose.
+[.discourse-part]
+__Sir John Sheldon__ (as is supposed)--No, sir John, that`'s too much.
+(or words to that purpose.)
 
-W+++.+++ P.--I make this bold challenge to all men, women and children upon earth,
+[.discourse-part]
+__William Penn__--I make this bold challenge to all men, women and children upon earth,
 justly to accuse me with ever having seen me drunk, heard me swear, utter a curse,
 or speak one obscene word (much less that I have made it my practice).
 I speak this to God`'s glory,
@@ -349,10 +384,12 @@ men may be said to come from to the Arctic Pole,
 but directly and immediately from the Antarctic.
 Your words shall be your burden, and I trample your slander under my feet.
 
-J+++.+++ R.--Well, Mr. Penn, I have no ill-will towards you: your father was my friend,
+[.discourse-part]
+__John Robinson__--Well, Mr. Penn, I have no ill-will towards you: your father was my friend,
 and I have a great deal of kindness for you.
 
-W+++.+++ P.--But you have an ill way of expressing it.
+[.discourse-part]
+__William Penn__--But you have an ill way of expressing it.
 You are grown too high to consider the plea of those you call your forefathers,
 for liberty of conscience against the papists, Cranmer, Latimer, Ridley, Bradford, etc.
 `'Twas then plea good enough, My conscience won`'t let me go to mass,
@@ -364,11 +401,13 @@ was a dissatisfaction in point of conscience,
 you cannot reasonably persecute others who have right to the same plea,
 and allow that to be warrantable.
 
-J+++.+++ R.--But you do nothing but stir up the people to sedition,
+[.discourse-part]
+__John Robinson__--But you do nothing but stir up the people to sedition,
 and there was one of your friends that told me, that you preached sedition,
 and meddled with the government.
 
-W+++.+++ P.--We have the unhappiness to be misrepresented,
+[.discourse-part]
+__William Penn__--We have the unhappiness to be misrepresented,
 and I am not the least concerned therein.
 Bring me the man that will dare to justify this accusation to my face,
 and if I am not able to make it appear, that it is both my practice, and all my friends,
@@ -385,25 +424,31 @@ and esteem them all but a due recompense.
 `'Tis hard that I, being innocent, should be reputed guilty, but the will of God be done:
 I accept of bad report as well as good.
 
-J+++.+++ R.--Well, I must send you to Newgate for six months,
+[.discourse-part]
+__John Robinson__--Well, I must send you to Newgate for six months,
 and when they are expired you will come out.
 
-W+++.+++ P.--Is that all?
+[.discourse-part]
+__William Penn__--Is that all?
 You well know a larger imprisonment has not daunted me.
 I accept it at the hand of the Lord, and am content to suffer his will.
 Alas!--you mistake your interest: You`'ll miss your aim:
 This is not the way to obtain your ends.
 
-J+++.+++ R.--You bring yourself into trouble: you will be heading parties,
+[.discourse-part]
+__John Robinson__--You bring yourself into trouble: you will be heading parties,
 and drawing people after you.
 
-W+++.+++ P.--You mistake: there is no such way as this to render men remarkable:
+[.discourse-part]
+__William Penn__--You mistake: there is no such way as this to render men remarkable:
 you are angry that I am considerable, and yet you take the very way to make me so,
 by making this bustle and stir about one peaceable person.
 
-J+++.+++ R.--I wish your adhering to these things do not convert you to something at last.
+[.discourse-part]
+__John Robinson__--I wish your adhering to these things do not convert you to something at last.
 
-W+++.+++ P.--I would have you and all men to know,
+[.discourse-part]
+__William Penn__--I would have you and all men to know,
 that I scorn that religion which is not worth suffering for,
 and able to sustain them that are afflicted for it.
 Mine is; and whatever may be my lot for my constant profession of it,
@@ -415,10 +460,13 @@ Your religion persecutes, and mine forgives:
 and I desire my God to forgive you all that are concerned in my commitment,
 and I leave you all in perfect charity, wishing you everlasting salvation.
 
-J+++.+++ R.--Send a corporal with a file of musquetiers along with him.
+[.discourse-part]
+__John Robinson__--Send a corporal with a file of musquetiers along with him.
 
-W+++.+++ P.--No, no, send your lackey: I know the way to Newgate.
+[.discourse-part]
+__William Penn__--No, no, send your lackey: I know the way to Newgate.
 
+[.offset]
 His court order was made out and he imprisoned.
 
 The preceding chapters have contained many illustrations of the effects
@@ -569,6 +617,9 @@ In the year 1670 Elizabeth Stirredge felt it required
 of her to give a warning to king Charles II,
 as follows:
 
+[.embedded-content-document]
+--
+
 "`This is unto you, O king;
 hear what the Lord has committed into my charge concerning you.
 As you have been the cause of making man desolate, so will the Lord lay you desolate;
@@ -589,7 +640,13 @@ for keeping me faithful to his testimony, and giving me strength to do his will.
 So the Lord blessed my going forth, his presence was with me in my journey,
 preserved my family well, and my coming home was with joy and peace in my bosom.
 
+--
+
+[.offset]
 Another exercise through which this faithful servant passed, is thus narrated:
+
+[.embedded-content-document]
+--
 
 The officers came and demanded money for the king for our meeting together.
 My husband answered them: "`If I owed the king any, I would surely pay him;
@@ -671,9 +728,14 @@ In a few weeks, as they were making merry at a feast, two of them died on a sudd
 after dinner, and the rest very hardly escaped.
 This was about the year 1674.
 
+--
+
 When persecution was active in Aberdeen, in 1676,
 John Skein addressed a letter from the prison to the provost,
 remonstrating with him for imprisoning Friends; in which he says:
+
+[.embedded-content-document]
+--
 
 I warn you, that you "`Seek not to cover this and such like rigorous practices,
 lest you add to your iniquity.`"
@@ -710,9 +772,13 @@ as it may produce such fruits as are most acceptable to God,
 and refreshing to his people.
 I rest as formerly, however esteemed by you,
 
+[.signed-section-closing]
 Your true and faithful friend,
 
+[.signed-section-signature]
 John Skein
+
+--
 
 The trial of John Crook furnishes another illustration of the despotic
 character of those who professed to administer justice;
@@ -764,10 +830,14 @@ whereby "`You lose the benefit of the law, and expose yourself, body and estate,
 to great hazard, and whatever violence is offered to your person or estate,
 you are out of the king`'s protection.`"
 
-John Crook.--I desire, in meekness and humility, to say, I shall not:
+[.discourse-part]
+__John Crook__--I desire, in meekness and humility, to say, I shall not:
 I dare not betray the honesty of my cause, and the honest ones of this nation,
 whose liberty I stand for as well as my own, as I have cause to think I shall,
 if I plead to the present indictment, before I see the face of my accusers.
+
+[.small-break]
+'''
 
 Finding the court would pay no regard to his exposition of the law,
 which prohibited the oath of allegiance to be tendered to a prisoner until he
@@ -777,35 +847,46 @@ they had repeatedly recited in his hearing, John Crook enquired,
 whether if he took it today he could be called on to take it again, tomorrow,
 or the next day, and so on as often as they chose.
 
-Judge.--When you have once sworn,
+[.discourse-part]
+__Judge__--When you have once sworn,
 you may not be put upon it again except you minister occasion again on your part.
 
-J+++.+++ C.--Is this the judgment of the court, that the oath once taken by me is sufficient,
+[.discourse-part]
+__John Crook__--Is this the judgment of the court, that the oath once taken by me is sufficient,
 and ought not to be tendered to me a second time
 without new matter ministered on my part?
 
-Judge.--Yes, you making it appear that you have once taken it.
+[.discourse-part]
+__Judge__--Yes, you making it appear that you have once taken it.
 
-J+++.+++ C.--Is this the judgment of the whole court?
+[.discourse-part]
+__John Crook__--Is this the judgment of the whole court?
 
+[.offset]
 The whole court standing up.
 "`Yes: it is the judgment of the court.`"
 
-J+++.+++ C.--&hellip;I am the man that have taken it once,
+[.discourse-part]
+__John Crook__--&hellip;I am the man that have taken it once,
 being a freeman of the city of London,
 when I was made free; witness the records in Guild Hall, which I can produce,
 and no new matter appearing you ought not, by your own judgment,
 to tender it to me a second time.`"
 
+[.offset]
 Notwithstanding their united judgment just before delivered,
 the judges refused to be bound by it, saying they would not be thus entrapped.
 
-J+++.+++ C.--Will you not stand to your own judgment?
+[.discourse-part]
+__John Crook__--Will you not stand to your own judgment?
 Did you not say, even now, that if I had once taken the oath,
 it ought not to be tendered to me a second time except I ministered new matter,
 that I had not kept it.
 No such matter appearing, you ought not to tender it to me a second time,
 by your own confession, much less indict me for a refusal.
+
+[.small-break]
+'''
 
 He, with others, was remanded to jail.
 When brought before the court again, the same arbitrary course was pursued,
@@ -816,8 +897,10 @@ The judge sentenced them to forfeit all real estate during life;
 and all personal estate forever, to be out of the king`'s protection,
 and to be imprisoned during his pleasure.
 
-J+++.+++ C.--But we are still under God`'s protection.
+[.discourse-part]
+__John Crook__--But we are still under God`'s protection.
 
+[.offset]
 They were all sent to prison.
 
 The experience of Samuel Bownas furnished another illustration of the
@@ -830,7 +913,8 @@ One of them, named James Clement, a bold man, well skilled in the law, answered:
 "`We are sworn to keep the queen`'s secrets, our fellow`'s and our own,
 and for that reason we declare no reasons.`"
 
-Judge.--Now Mr. Wise Man speaks, but I tell you you are not so sworn,
+[.discourse-part]
+__Judge__--Now Mr. Wise Man speaks, but I tell you you are not so sworn,
 and I could find in my heart to lay you by the heels, and a fine upon your brethren.
 
 Clement replied, he might if he pleased, but when it was done,
@@ -890,6 +974,9 @@ death by the intolerant government there,
 throws light on this subject.
 The author of the book says, in speaking of those times:
 
+[.embedded-content-document]
+--
+
 "`The civil authority was offensively dictatorial in its commands.
 No individual outside of the ruling power had any
 rights with which government could not meddle.`"
@@ -907,6 +994,8 @@ quiet and complete obedience.`"
 were the precise things that were denied.
 The man who contended for either had to do it in the spirit of a martyr,
 and risk a martyr`'s doom.`"
+
+--
 
 In illustration of this despotic spirit,
 the book relates the proceedings against this Robert Pike,
@@ -934,7 +1023,7 @@ some Friends were brought into suffering at Barberry, in Oxfordshire, Eng+++.+++
 for their religious principles;
 and they promptly published to the world the history of their case,
 in a small pamphlet or book, entitled,
-The Saints`' Testimony Finishing Through Sufferings, printed by Giles Calvert,
+__The Saints`' Testimony Finishing Through Sufferings,__ printed by Giles Calvert,
 at the Black Spread-Eagle in 1655.
 It clearly exposes the illegal and unjust treatment on false
 accusations meted out to Anne Audland and others,
@@ -1080,6 +1169,9 @@ and his record of his journey there shows the hardships which the Gospel messeng
 to newly settled sections of the country had to encounter in those days.
 He says:
 
+[.embedded-content-document]
+--
+
 Two Friends accompanied me, it being all wilderness,
 and no English inhabitants or pathways, but some marked trees to guide people.
 The first day`'s journey we did pretty well, and lay that night in the woods,
@@ -1154,9 +1246,14 @@ as formerly they had received the doctrine of Truth,
 for which they were great sufferers in the spoiling of their goods,
 the governor being a very peevish man, and much set against Truth and Friends.
 
+--
+
 George Fox also visited this little flock,
 and preached the Gospel among the surrounding people in the same year, 1672.
 After leaving Pagan`'s Creek, in Virginia, he says:
+
+[.embedded-content-document]
+--
 
 Our way to Carolina grew worse, being much of it plashy,
 and pretty full of great bogs and swamps, so that we were commonly wet to the knees,
@@ -1252,8 +1349,14 @@ who sat soberly among the people.
 The ninth of the Tenth Month we got back to Bonner`'s Creek,
 where we had left our horses; having spent about eighteen days in the north of Carolina.
 
+--
+
+[.offset]
 In his Memoirs, Joseph Hoag, records his experience in attending his religious meetings.
 He says:
+
+[.embedded-content-document]
+--
 
 We found it our duty, when at home, to be faithful in attending our meetings,
 so that the two first years we used to walk over four miles, twice a week, spring,
@@ -1266,6 +1369,8 @@ Dear children, I want, if any or all of you should arrive at easy circumstances,
 that you remember from where you have risen,
 and always let a thankful and humble mind be your inner garment,
 that the blessing of the dew of heaven may rest upon you.
+
+--
 
 A love of the attendance of meetings has been a characteristic of all true Quakers.
 Samuel Smith mentions his visiting Dorothy Owen, in North Wales,
@@ -1301,4 +1406,5 @@ She was careful hence forward to be diligent in the performance of this,
 as well as her other duties, and in consequence thereof grew in the root of Life,
 became an able minister of the Gospel, and was made useful in the household of faith.
 
+[.offset]
 "`Be faithful unto death, and I will give you a crown of life`" Rev. 2:10.
