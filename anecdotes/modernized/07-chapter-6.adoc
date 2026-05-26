@@ -45,6 +45,9 @@ plain manner,
 which showed that he feared not man when he spoke in the service of his Lord.
 In this letter he says:
 
+[.embedded-content-document]
+--
+
 Thus says the Lord, I chose you out of all the nations,
 when you were little in your own eyes,
 and threw down the mountains and the powers of the earth before you,
@@ -57,6 +60,8 @@ therefore this is the word of the Lord to you, whether you will hear or forbear:
 If you take not away all those laws which are made concerning religion
 whereby the people which are dear in my eyes are oppressed,
 you shall not be established.
+
+--
 
 There is no reason for believing that Cromwell himself was in favor of persecution.
 In his speech to parliament in 1654 he said: "`Liberty of conscience is a natural right,
@@ -254,6 +259,10 @@ After the death of Oliver Cromwell, as persecution still continued,
 Edward Burrough wrote the following lines to his son Richard,
 who succeeded him as Protector:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Protector and His Council
 
 The Lord God will shortly make you know that we are his people,
@@ -265,6 +274,8 @@ neither the gentle leadings from God have any place in you,
 yet judgments shall awaken you,
 and his heavy hand of indignation shall lie upon your conscience,
 and you will be scattered and distracted to pieces.
+
+--
 
 It was but a few months after the delivery of this letter,
 when Richard laid down the government.
@@ -361,6 +372,9 @@ at times as if they would be smothered; and with many other privations and hards
 which drew Friends who were at liberty, to visit them.
 John Spooner gives this account of the abuses he met with in one of his visits of sympathy.
 
+[.embedded-content-document]
+--
+
 One day the jailer came down to the jail in the afternoon,
 to let out one of the felons to beg in the town, who, it seems,
 knowing some of us to be on the stairs, hastily pulled to him the outer door,
@@ -390,8 +404,13 @@ and two men of the town seeing him, they came to help her, and to entreat or hol
 and he locked them all within the jail-door,
 and kept them till almost four o`'clock in the morning.
 
+--
+
 The Journal of Richard Davies,
 after describing the committing to prison of some Friends in Wales, says:
+
+[.embedded-content-document]
+--
 
 We found the temper of the jailer to be very cruel.
 He threatened us with a great deal of hardship, if we did not eat of his food,
@@ -541,11 +560,16 @@ in the time of our afflictions and persecutions.
 We could say, surely God is good to Israel,
 and to all them that draw near unto Him with an upright heart.
 
+--
+
 The Journal of Richard Davies throws considerable light
 upon the powers and duties of the jailers at that period.
 After mentioning that several friends in Montgomeryshire had been put in prison,
 he says that one of the magistrates,
 a "`Lord Herbert,`" sent private instructions to the jailer to let them have more liberty.
+
+[.embedded-content-document]
+--
 
 The jailer had an empty house at the end of the town, and there he let Friends go,
 which was a sweet, convenient place near the fields, without any keeper over them,
@@ -572,6 +596,8 @@ and to go to the meetings with the rest of the prisoners.
 Other Friends that lived in and about the town, met with them in prison,
 and considerable meetings we had in that house.
 
+--
+
 When John Banks was paying a religious visit in Ireland,
 as he was waiting on the Lord at Dublin, a great weight came upon his spirit,
 with an opening that on the next First-day he must
@@ -589,6 +615,9 @@ I hope you will do justice and execute the law.`"
 The room was large, and many people crowded in.
 After a time, John turned to the crowd and said:
 
+[.embedded-content-document]
+--
+
 "`Your minister has charged me, without proof, that I am a deceiver and deluder.
 Did you ever see my face before, or did you ever hear me speak before now?
 Which of you, or whom, have I deceived or deluded?`"
@@ -601,6 +630,8 @@ and I declaring God`'s everlasting Truth to the people.
 At last the priest`'s wife said to the governor: "`I pray you, sir,
 let him not preach here; commit him to jail.`"
 
+--
+
 This the governor did, on the ground that he had broken the law against conventicles.
 John replied, that they only met in an honorable manner, in silence,
 waiting upon the Lord.
@@ -609,6 +640,9 @@ When they came forth from the house, the jailer said: "`Come after me.`"
 He took them into a large room beyond his own dwelling,
 and the people came in and filled that room, the jailer`'s and part of a third.
 John Banks adds:
+
+[.embedded-content-document]
+--
 
 In a little time my mouth was opened in the demonstration of the power and spirit of God,
 and I preached the way of peace and salvation to the people, in and by Jesus Christ,
@@ -623,6 +657,8 @@ and many made confession thereunto,
 and told the priest they were satisfied by what they had heard me speak,
 that I was no such man as he said I was,
 and that we were not the people he had persuaded them to believe.
+
+--
 
 The next morning the priest went to the sheriff to tell him what a numerous
 meeting the jailer had permitted to be in the county jail,
@@ -717,6 +753,9 @@ and the sense of duty was urgent on Richard to visit
 the stripped meetings in Gospel love.
 He says:
 
+[.embedded-content-document]
+--
+
 I followed my good Guide, that showed me what to do.
 I went to the jailer and told him I had an occasion to go out a little while,
 and I could not go without acquainting him of it, because I was his prisoner.
@@ -725,3 +764,5 @@ and then you will be taken to prison; and what shall I do then?`"
 I told him that if I was taken prisoner, I would send to him where I was,
 and he might send for me if he pleased.
 So he bid me have a care of myself.
+
+--
