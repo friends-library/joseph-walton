@@ -16,6 +16,9 @@ During the time of persecution, many Friends had been long in jail,
 and there appeared to be no prospect of release,
 when the following paper was presented to parliament:
 
+[.embedded-content-document]
+--
+
 Friends:--Who are called a Parliament of these nations:
 we in love to our brethren that lie in prisons, and houses of correction and dungeons,
 and many in fetters and irons, and have been cruelly beat by the cruel jailers,
@@ -44,12 +47,18 @@ are waiting in Westminster Hall for an answer from you to our offer,
 and to manifest our love to our friends,
 and to stop the wrath and judgment from coming upon our enemies.
 
+--
+
+[.offset]
 This was signed by one hundred and sixty-four Friends.
 
 Parliament refused their request,
 and indeed appeared to be offended at the exposure of the injustice of the magistrates;
 but there is little doubt that this act was not without its influence.
 The eloquent Henry Armitt Brown remarks respecting it:
+
+[.embedded-content-document]
+--
 
 I know of few things in the history of the English race more noble than this act.
 No poet has made it the subject of his eulogy,
@@ -64,7 +73,13 @@ than that of these humble Quakers grouped below.
 They had rung with the most eloquent voices that ever spoke the English tongue,
 but never heard before such words as these.
 
+--
+
+[.offset]
 George Fox mentions in his Journal that when he was in prison at Lancaster:--
+
+[.embedded-content-document]
+--
 
 A Friend went to Oliver Cromwell, and offered himself, body for body,
 to lie in Doomsdale in my stead; if he would take him and set me at liberty.
@@ -73,6 +88,8 @@ Which thing so struck him, that he said to his great men and council:
 And though he did not accept of the Friend`'s offer, but said, "`He could not do it,
 for it was contrary to law;`" yet the Truth thereby came mightily over him.
 
+--
+
 In those days the Friends who were present at meetings for worship were
 liable to be seized and thrust into prison with but little ceremony.
 In their watchfulness over one another it soon became a practice
@@ -80,6 +97,9 @@ to select certain Friends who should care for those thus imprisoned.
 Thomas Ellwood mentions that on one occasion thirty-two, of whom he was one,
 were taken at a meeting in London and sent to Old Bridewell.
 He says:
+
+[.embedded-content-document]
+--
 
 It was a general storm which fell that day,
 but it lighted most heavily upon our meetings;
@@ -104,6 +124,8 @@ came themselves also with it, and having placed it on a table, gave notice to us
 that it was provided for all those that had not others to provide for them;
 or were not able to provide for themselves.
 And there was not lacking among us a competent number of such guests.
+
+--
 
 Thomas Ellwood, though he had lived as frugally as he could,
 had by this time reduced his little stock of money to ten pence, "`which,`" says he,
@@ -168,6 +190,9 @@ till they have got enough to make up the coroner`'s inquest.`"
 If they resist they will drag them in by force,
 and "`will not hesitate to stop a coach and pluck the men out of it.`"
 
+[.embedded-content-document]
+--
+
 It so happened that at this time they lighted on an ancient man, a grave citizen,
 and laid hold on him, and although he was going on very urgent business,
 they were deaf to all entreaties, and hurried him in,
@@ -197,7 +222,13 @@ where they would find better accommodations,
 and more room be given for those left behind, "`and here,`" said the sheriff,
 "`is the porter of Bridewell, your old keeper, to attend you there.`"
 
+--
+
+[.offset]
 In the year 1678, George Fox writes thus:
+
+[.embedded-content-document]
+--
 
 Now it was a time of great suffering, and many Friends being in prison,
 many other Friends were moved to go to the parliament,
@@ -208,6 +239,8 @@ and in love to those that cast them in,
 that they might not bring innocent blood upon their own heads;
 which we knew would cry to the Lord, and bring his wrath,
 vengeance and plagues upon them.
+
+--
 
 At one time Friends in Wales suffered much,
 largely through the efforts of an informer who sought
@@ -277,7 +310,7 @@ The love which prevailed among our early Friends,
 often found occasions for its exercise in pleading with
 those in authority for their brethren who were under suffering.
 
-In the Memoirs of his Life,
+In the _Memoirs of his Life,_
 George Whitehead frequently speaks of the labors which he
 underwent for the relief of his suffering Friends.
 Being a man of good ability, quick of perception, and undaunted spirit,
@@ -286,6 +319,9 @@ and he was freely given up to spend his time in pleading
 with such for those who were imprisoned or abused,
 on account of their religious principles.
 He says:
+
+[.embedded-content-document]
+--
 
 In the year 1670, in the Eighth Month, having been in the country,
 and returning to London, I was taken with a great pain in my head, whereupon I grew sick,
@@ -319,9 +355,14 @@ earnest prayers with tears being then the church`'s very great concern,
 which the Lord our God in his own time, graciously heard and answered,
 blessed be his name.
 
+--
+
 The meetinghouse at Horsleydown was pulled down by order of the king and council,
 because Friends persisted in holding their religious meetings in it.
 George Whitehead says:
+
+[.embedded-content-document]
+--
 
 Our innocent Friends, as obliged in conscience toward Almighty God,
 resolved to keep their solemn meetings in his dread and fear;
@@ -360,9 +401,14 @@ until they broke several pikes and muskets, and one carbine;
 and several were so beaten and bruised that their lives were in danger.
 They that were wounded and sorely bruised this day were above thirty persons.
 
+--
+
 Similar barbarities were practised at the meetings
 held on the ninth and sixteenth of Eighth Month;
 and in reference to them George Whitehead says:
+
+[.embedded-content-document]
+--
 
 I was the more willing to insert the foregoing relation in this place,
 because I was very deeply and sorrowfully affected by the frequent
@@ -431,8 +477,13 @@ and that in sincere obedience to Christ`'s command and Gospel ministry.
 When I had opened and more fully pleaded our suffering Friends`' case,
 the king gave this answer: I will pardon them.
 
+--
+
 Pursuant to the king`'s promise,
 an order was given to the attorney general to draw up a pardon.
+
+[.embedded-content-document]
+--
 
 After we had taken out the foregoing order and warrant,
 our friend Thomas Moore and I carried and delivered
@@ -471,14 +522,16 @@ so that we were constrained to make further application to the king,
 to remit or abate the great fees.
 Whereupon the king gave order, according to our request, as follows:
 
-His majesty is pleased to command,
+"`His majesty is pleased to command,
 that it be signified as his pleasure to the respective offices and sealers,
 where the pardon to the Quakers is to pass, that the pardon,
 though comprehending a great number of persons, do yet pass as one pardon,
-and pay but as one.
+and pay but as one.`"
 
+[.signed-section-signature]
 Arlington
 
+[.signed-section-closing]
 At the Court at Whitehall, 13th of September, 1572.
 
 But though we had this warrant from the king,
@@ -496,6 +549,8 @@ Accordingly, I advised them to petition the king, with the names of the prisoner
 for his warrant, to have them inserted in the same patent with the Quakers,
 which they petitioned for, and obtained.
 
+--
+
 Gilbert Latey, of London,
 was a sympathizing friend and efficient helper of
 those who were under suffering for conscience`' sake.
@@ -512,6 +567,9 @@ about the principles of Truth and way of the Lord;
 and being informed concerning the power of God and the manner of the Spirit`'s working,
 answered that some of their people thought our friends were mad.
 "`But,`" said he, "`I do not think so of them.`"
+
+[.embedded-content-document]
+--
 
 In discourse with him at another time, he said: "`Let me talk with you ever so long,
 you will tell me of the spirit of God, and the grace of God,
@@ -534,6 +592,8 @@ Upon this they parted, but Gilbert Latey often visited him,
 to desire and remind him to show kindness to the Friends
 that were under confinement in a strange place,
 and at so great a distance from their friends and their native country.
+
+--
 
 Some time after this,
 through the kind interference of the lord D`'Aubigny on their behalf,
@@ -625,6 +685,9 @@ he doubtless sought to be directed and guided in these movements
 by the gentle influence of his pure Spirit.
 The account from which we have quoted says:
 
+[.embedded-content-document]
+--
+
 It was his practice, in soliciting kings, princes, and great men,
 to keep to the anointing and love of God; and, as that gave utterance, to speak;
 in which he oftentimes reached and had place in them,
@@ -633,6 +696,8 @@ that as Friends feel and keep to this anointing in their solicitations,
 they may expect a blessing and therein be serviceable to the Lord`'s people; but if,
 on the contrary, any shall go in these services in their own will, wit and parts,
 they may miss the desired end as some have done.
+
+--
 
 Gilbert Latey was blessed and prospered in his business,
 so that he had plenty of this world`'s goods, to supply all his reasonable needs,
@@ -665,6 +730,9 @@ as he could truly say it had done for him, and preserved him to a good old age.`
 Toward the latter part of his life, Gilbert Latey delighted in quiet and retirement,
 often mentioning that he waited the Lord`'s call, and time of being removed;
 that he felt his peace to abound in him, and that there was no cloud in his way.
+
+[.embedded-content-document]
+--
 
 Though he was long weak and feeble as to the outward, yet he was fresh, strong,
 and living in his inward man; and in the latter end of the Fifth Month, 1705,
@@ -700,12 +768,14 @@ the aged Christian calmly met that solemn change which awaits all the living.
 He peacefully departed on the fifteenth of Ninth Month, 1705,
 aged about seventy-nine years.
 
+--
+
 The practice of benevolence, of that love to God which manifests itself in love to man,
 was not confined to the early members of the Society of Friends.
 It was exemplified in the life of that eminent physician, John Fothergill, of London,
 who was a consistent Friend.
 He was a coadjutor of Howard, in his efforts to reform the management of prisons.
-Dr. Franklin once wrote of him: "`I can hardly conceive that a better man ever existed.`"
+Dr. Benjamin Franklin once wrote of him: "`I can hardly conceive that a better man ever existed.`"
 He died in 1780.
 This worthy man was the son of John Fothergill, and brother of Samuel Fothergill,
 both of whom were eminent ministers and diligent laborers in the Lord`'s service.
@@ -747,6 +817,9 @@ The following is a narrative of a very remarkable
 circumstance that occurred to the elder sister,
 showing how God himself condescended, in a most direct manner,
 to employ her as his instrument to minister to the need of one of his saints.
+
+[.embedded-content-document]
+--
 
 One bleak winter`'s morning, Friend Elizabeth Lewis awoke very early,
 impressed in a strange manner.
@@ -811,6 +884,8 @@ There was abundance of food, enough to last many days, and better still,
 a message from those good ladies to old Betty,
 that they would care for her as long as she lived.
 
+--
+
 The preceding portions of this volume have furnished many illustrations
 of the severity of the sufferings to which our early members were exposed,
 because of their faithfulness to their religious principles.
@@ -828,6 +903,9 @@ Indeed,
 the care of the suffering ones appears to have been one of the first motives
 to the establishment of a system of discipline among Friends.
 William Penn, in his preface to the [.book-title]#Journal of George Fox#, says:
+
+[.embedded-content-document]
+--
 
 This people increasing daily both in town and country,
 a holy care fell upon some of the elders among them
@@ -898,7 +976,9 @@ to provide a requisite stock for the discharge of
 general expenses for general services in the church,
 not needful to be here particularized.
 
-[.book-title]#The Journal of George Fox# shows how he was led to travel through England,
+--
+
+The [.book-title]#Journal of George Fox# shows how he was led to travel through England,
 proclaiming the truths of the Gospel,
 and calling upon his hearers to heed the discoveries
 of the light of Christ on their consciences.
@@ -907,11 +987,16 @@ had commissioned him to preach the way of salvation,
 that he was led to establish meetings for discipline.
 Under the date of 1666, he says:
 
+[.embedded-content-document]
+--
+
 I was moved of the Lord to recommend the setting
 up five Monthly Meetings in the city of London,
 besides the women`'s meetings and the Quarterly Meetings to take care of God`'s glory,
 and to admonish and exhort such as walked disorderly or carelessly,
 and not according to Truth.
+
+--
 
 From a document written in 1662, signed by Edward Burrough,
 it appears that a similar meeting had been established in London some years before,
@@ -929,13 +1014,19 @@ And he sent papers to some places which he did not personally visit,
 exhorting Friends to settle the Monthly Meetings in the Lord`'s power in those places.
 So that those meetings soon came to be generally established among Friends.
 
+[.offset]
 Of the fruits of this righteous concern, George Fox says:
+
+[.embedded-content-document]
+--
 
 Since these meeting have been settled,
 and all the faithful have met together in the power of God,
 which is the authority of them, to perform service to the Lord therein,
 many mouths have been opened in thanksgivings and praise,
 and many have blessed the Lord God that ever He sent me forth in this service.
+
+--
 
 But although so much success attended these efforts
 to introduce a settled order in the church,
@@ -1045,6 +1136,9 @@ He found freedom to go there, where William Penn,
 Robert Barclay and other eminent Friends were met on the occasion.
 In a little time John Steel had the following testimony to deliver:
 
+[.embedded-content-document]
+--
+
 "`The Lord our God, with whom the treasures of wisdom and knowledge are hidden,
 in an acceptable time, in this our age and generation,
 had given his gifts unto his children for the gathering of people out of the world.
@@ -1100,15 +1194,20 @@ This is the judgment of God upon you, John Story and John Wilkinson.
 If it be not just and equal, reject it if you can.`"
 And to this they were silent.
 
+--
+
 The foregoing testimony came with such powerful weight and authority that, it is said,
 William Penn afterwards remarked to Robert Barclay to this purpose:
 "`This is neither the wisdom of the north, nor the eloquence of the south,
 but the power of God through a poor ploughman.`"
 
-The Journal of Charles Marshall, of Bristol,
+The __Journal of Charles Marshall,__ of Bristol,
 gives a vivid picture of the exercise of spirit caused by
 the opposition to a settled order and discipline among Friends.
 He says:
+
+[.embedded-content-document]
+--
 
 Great was the travail of our ancient and honorable Friend, George Fox,
 in this weighty concern, in the first breaking forth of Truth in this age.
@@ -1174,6 +1273,8 @@ and his power broke forth in a wonderful manner, tendering his people before Him
 and his presence and heavenly wisdom comforted and confirmed his servants,
 and Friends were opened to speak well of the name of the
 Lord and the greatness of his power and appearance.
+
+--
 
 The watchful care of Friends over their members who were in distress,
 extended to distant parts,
@@ -1243,6 +1344,9 @@ with continued safety, sailed away to their own homes.
 Sewell, in his [.book-title]#History of the People called Quakers#,
 states that several years after this occurrence:
 
+[.embedded-content-document]
+--
+
 George Fox wrote a book to the grand sultan, and the king at Algiers,
 wherein he laid before them their indecent behavior and unreasonable dealings,
 showing them from their Alcoran, that Mahomet had given them other directions.
@@ -1252,8 +1356,13 @@ by which the Mahometans might see what kind of Christians the Quakers were:
 such as showed effectually that they loved their enemies,
 according to the doctrine of their supreme lawgiver, Christ.
 
+--
+
 In the epistle of the Yearly Meeting begun and held in London, the fifth of Fourth Month,
 1682 (the fifth epistle issued), appears the following:
+
+[.embedded-content-document]
+--
 
 Finally, dear Friends,
 we have great cause to magnify the name of the
@@ -1265,7 +1374,7 @@ Again, in that of 1683, "`Here were some tender Friends from Dantzick, Frizeland
 Holland, Norway, Scotland and some from America.
 And we understand that Friends keep up their meetings in Algiers and Turkey.`"
 
-1684.--An account being given by a meeting here ordered to inspect
+_1684._--An account being given by a meeting here ordered to inspect
 the accounts of Friends that are captives at Algiers,
 etc.,
 intimating that what was charitably contributed formerly
@@ -1282,18 +1391,18 @@ and that the same be and hereby is recommended to Friends in Ireland,
 Scotland and Jamaica,
 to afford their Christian and friendly assistance in contributing to the same service.
 
-Epistle 1689.--Our Friends who are captives at Mequinez do remain as before;
+_Epistle 1689._--Our Friends who are captives at Mequinez do remain as before;
 only some are come down to Sally,
 and have liberty to go about the town under security for their true imprisonment.
 Great endeavors have been used for their redemption.
 
-1690.--And as concerning our Friends at Mequinez and Sally,
+_1690._--And as concerning our Friends at Mequinez and Sally,
 endeavors have not been lacking to obtain their redemption;
 but as yet it cannot be effected.
 We hear from them that they are well,
 and desire their love might be communicated to Friends in their native land.
 
-1691.--Several good epistles were read in this meeting from foreign parts--Ireland,
+_1691._--Several good epistles were read in this meeting from foreign parts--Ireland,
 Scotland,&hellip;and two from Friends, captives at Mequinez, in Barbary,
 under the emperor of Morocco.
 There yet remain nine English Friends captives at Mequinez, and three at Murbray;
@@ -1325,7 +1434,7 @@ they are necessitated to keep their meetings in the night seasons to wait on God
 The aforesaid captive Friends were very thankful for the relief sent from hence,
 which was very refreshing to them.
 
-1692.--Several letters from Friends who still remain in their long captivity in Mequinez,
+_1692._--Several letters from Friends who still remain in their long captivity in Mequinez,
 to various Friends here, were read; intimating the state of things with them,
 and that they received our epistles from our last Yearly Meeting;
 and acknowledged Friends`' love and diligence here in laboring for their ransom.
@@ -1336,24 +1445,24 @@ The distressed case of the remainder of them (as last year signified),
 is still before Friends,
 and several are engaged in the love of God to use their endeavors for their ransom.
 
-1693.--The Friends yet remaining captives at Mequinez are still held under
+_1693._--The Friends yet remaining captives at Mequinez are still held under
 great severities and hardships by that cruel tyrannical task-master,
 who is yet permitted cruelly to punish, wound and kill poor captives, at his pleasure.
 And all possible care of their redemption and relief is by this meeting still recommended
 to the Meeting for Sufferings to continue their endeavors for the effecting thereof.
 
-1697.--At Barbary there remain several captives,
+_1697._--At Barbary there remain several captives,
 most of whom are such that received the Truth in the time of their captivity;
 the ransom of whom could not hitherto be obtained,
 although great endeavors have been used for it;
 but further endeavors are intended to be used as opportunity presents.
 
-1698.--We&hellip; understand that several of our Friends who were captives at Mequinez,
+_1698._--We&hellip; understand that several of our Friends who were captives at Mequinez,
 and suffered great hardships there, are dead.
 And there yet remain five, for whose ransom great endeavors have been used,
 but it is not yet effected.
 
-1699.--Earnest endeavors have again lately been used for the liberty of our Friends,
+_1699._--Earnest endeavors have again lately been used for the liberty of our Friends,
 captives in Barbary, though not as yet obtained:
 and there being at this time negotiations on foot
 for the redemption of all the English there;
@@ -1366,7 +1475,7 @@ to support their bodies under the great severities of labor,
 and undeserved stripes that captives often endure.
 Also farther direction by this meeting is given in their behalf.
 
-1700.--Friends`' care is also continued for the redemption
+_1700._--Friends`' care is also continued for the redemption
 of our Friends that are captives in Barbary;
 and (as was hoped),
 the king has now agreed for the ransom of all the English captives there;
@@ -1380,11 +1489,11 @@ when the collectors shall come with the briefs to Friends`' houses,
 we hope Friends will be inclined to extend their charity, in common with their neighbors,
 toward the redemption of the other English captives.
 
-1701.--The Friends that are in captivity in Barbary are duly taken care of by Friends.
+_1701._--The Friends that are in captivity in Barbary are duly taken care of by Friends.
 And their ransom having been agreed for some time, it is hoped will be shortly effected.
 One young man has been convinced there lately.
 
-1702.--And whereas we formerly gave you some account of the hopes Friends had,
+_1702._--And whereas we formerly gave you some account of the hopes Friends had,
 and endeavors used, for the redemption of Friends, captives in Barbary,
 we now let you know that John King, Richard Robertson, Thomas Walkedon, Robert Finley,
 James Burgoine,
@@ -1395,6 +1504,8 @@ including one George Palmer, a Friend`'s son, of Pennsylvania, recommended from 
 towards whose ransom they also did contribute.
 Several of which redeemed Friends have tenderly and gratefully
 acknowledged Friends`' love and care of them.
+
+--
 
 Thus, after a care of more than twenty years,
 the last of these poor people were restored to their homes,
@@ -1433,7 +1544,11 @@ in order to visit a woman, who being overcome with the cares of the world,
 neglected meetings; whom she warned of her danger,
 and who became more careful afterwards in performing her duty.
 
+[.offset]
 The next day she was taken ill, and expressed herself thus:
+
+[.embedded-content-document]
+--
 
 I cannot say that what I feared, is come upon me; but that which I have long desired;
 for I am very ill, and do think it will be my end.
@@ -1450,3 +1565,5 @@ and for the Truth`'s sake, and mostly alone; and the Lord has preserved me,
 so that none were permitted to do me any harm;
 for which I have often been humbly thankful; and now I feel peace,
 and shall in a little time rest with Him in everlasting joy and peace.
+
+--
