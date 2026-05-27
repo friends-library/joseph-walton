@@ -15,6 +15,9 @@ He also went over much of the settled districts of the United States,
 and had meetings with the Indians and in Barbados.
 In his autobiography he informs us, he--
 
+[.embedded-content-document]
+--
+
 Had made a high profession of imputative righteousness;
 that though I lived in the act of sin, the guilt of it should not be charged upon me,
 but imputed to Christ, and his righteousness imputed to me.
@@ -42,6 +45,8 @@ All my works were confounded by the visitations of God, in his love,
 and by the springing of the day from on high which discovered things as they were.
 The Lord brought confusion upon them.
 
+--
+
 I was amazed, and fear beset me on every side,
 and I began sometimes to fear I was undone forever,
 for something had entered into my heart that had turned the fruitful field into a wilderness.
@@ -62,8 +67,13 @@ The day of the Lord had overtaken us.
 The fire and sword which Christ brings upon the earth, through burning and judgment,
 was begun, by which the filth of our defilement was to be taken away.
 
-=== A Sermon Preached by Francis Camfield, at Grace-Church-Street, Fifth Month 14th, 1693
+[.embedded-content-document]
+--
 
+[.letter-heading]
+A Sermon Preached by Francis Camfield, at Grace-Church-Street, Fifth Month 14th, 1693
+
+[.salutation]
 My Friends:
 
 You have often heard by the servants of the Lord, that have given testimony to Jesus,
@@ -168,8 +178,7 @@ but I find I am beset with the devil, the enemy of my soul.
 Well, if you believe in the light, wherewith Christ Jesus has enlightened you,
 then cry to Him, and He will give you power to withstand the enemy of your soul.
 
-[.asterism]
-'''
+--
 
 Robert Barclay says: "`Seeing no man knows the Father but the Son,
 and he to whom the Son reveals Him,
@@ -195,7 +204,11 @@ which Christ has purchased unto us by his blood;
 so neither is the Scripture to go before the teaching of the Spirit,
 or to rob us of it.`"
 
+[.offset]
 William Penn, speaking of "`the word of light and life`" preached by George Fox, says:
+
+[.embedded-content-document]
+--
 
 For as it reached the conscience and broke the heart,
 and brought many to a sense and search, so what people had been vainly seeking without,
@@ -208,7 +221,13 @@ and God`'s talent to all.
 A faithful and true witness and just monitor in every bosom.
 The gift and grace of God to life and salvation that appears to all, though few regard it.
 
+--
+
+[.offset]
 Then in regard to the ministry of the early Friends generally:
+
+[.embedded-content-document]
+--
 
 And as their testimony was to the principle of God in man,
 the precious pearl and leaven of the kingdom,
@@ -229,7 +248,13 @@ and replenished with the most virtuous and beautiful
 plants of God`'s own right-hand planting,
 to his eternal praise.
 
+--
+
+[.offset]
 William Penn, alluding to their ministers, declares:
+
+[.embedded-content-document]
+--
 
 They were changed men themselves before they went about to change others.
 Their hearts were rent, as well as their garments changed,
@@ -240,6 +265,8 @@ conduct that immediately followed upon it.
 They went not forth nor preached in their own time and will, but in the will of God,
 and spoke not their own studied matter, but as they were opened and moved of his Spirit,
 with which they were well acquainted in their own conversion.
+
+--
 
 The fruits of the ministry of such gifted men and women were soon apparent.
 Springing from a Divine source,
@@ -276,6 +303,9 @@ convince and sanctify man,`" they were convinced
 that when assembled for the purpose of Divine worship,
 as Robert Barclay declares:
 
+[.embedded-content-document]
+--
+
 The great work of one and all ought to be to wait upon God,
 and returning out of their own thoughts and imaginations,
 to feel the Lord`'s presence and know a gathering into his Name indeed,
@@ -297,6 +327,8 @@ which he can both begin and end at his pleasure, do or leave undone as himself s
 whether they be a prescribed form, as a liturgy, etc.,
 or prayers conceived extempore by the natural strength and faculty of the mind,
 are but superstition, will-worship and abominable idolatry in the sight of God.
+
+--
 
 But while they felt themselves in duty bound to hold up this pure and
 spiritual worship as being that which is "`answerable to the testimony
@@ -365,7 +397,11 @@ we shall have no storehouse of our own good works to point to.
 "`Not by works of righteousness which we have done but by his mercy He saves us,
 by the washing of regeneration and the renewing of the Holy Spirit.`"
 
-=== Passages From the Writings of Thomas Story, Who Died 1742
+[.embedded-content-document]
+--
+
+[.letter-heading]
+Passages From the Writings of Thomas Story, Who Died 1742
 
 As the nature and virtue of the Divine essential Truth increased in my mind,
 it wrought in me daily a great conformity to itself, by its own power;
@@ -421,10 +457,13 @@ O you disciples of the Lamb of God!--lest you be found sleeping when your Lord c
 and be thereby unfitted to enter into his rest and glory.
 Watch and pray lest you enter into the temptation of self-confidence.
 
-[.asterism]
-'''
+--
 
+[.offset]
 Samuel Scott, who died in 1789, wrote:
+
+[.embedded-content-document]
+--
 
 Grievous visions have been before me,
 of a final separation from the beatific vision of the Lamb,
@@ -455,7 +494,13 @@ but by his direct presence and saving help,
 are the souls of the desolate and distressed led, at seasons, to trust in Him,
 who for their sanctification, "`suffered outside the gate.`"
 
-=== Thomas Ellwood`'s Account of that Eminent and Honorable Servant of the Lord,George Fox
+--
+
+[.embedded-content-document]
+--
+
+[.letter-heading]
+Thomas Ellwood`'s Account of that Eminent and Honorable Servant of the Lord,George Fox
 
 This holy man was raised up by God, in an extraordinary manner,
 for an extraordinary work, even to awaken the sleeping world,
@@ -520,7 +565,13 @@ freed from the earthly tabernacle in which he had led an exemplary life of holin
 was translated into those heavenly mansions where Christ our Lord,
 went to prepare a place for his own.
 
-=== Extract from the Life of Daniel Wheeler
+--
+
+[.embedded-content-document]
+--
+
+[.letter-heading]
+Extract from the Life of Daniel Wheeler
 
 In looking back at the marvellous manner in which I was sustained through all this conflict,
 and again restored as one brought back from the dead,
@@ -583,6 +634,7 @@ How can I sufficiently appreciate or declare the extent of the endless
 mercy which allowed me not to perish in the midst of my sins,
 when so many were swept away by the same pestilential disorder.
 
+[.offset]
 +++[+++The above alludes to when he was in the British army,
 when the average number of deaths was twenty-seven a day and night.]
 
@@ -603,10 +655,13 @@ the evidence of things not seen,`" even the salvation of the soul,
 through Christ Jesus our Lord.
 Amen!
 
-[.asterism]
-'''
+--
 
+[.offset]
 William Savery says:
+
+[.embedded-content-document]
+--
 
 Now I struggled to break myself of my fondness for company,
 seeing the snare there was in it;
@@ -636,7 +691,13 @@ burning--that every secret thing has been brought to light,
 and the hidden works of darkness have been made manifest;
 and that even for idle words they have had to render an account.
 
+--
+
+[.offset]
 Stephen Crisp remarks:
+
+[.embedded-content-document]
+--
 
 It is no man`'s riches nor greatness in this world;
 it is no man`'s eloquence and natural wisdom that
@@ -651,6 +712,8 @@ and they are made use of for the good of the body, which is the church,
 and are as ornaments and jewels,
 which serve for the joy and comfort of all who are partakers of
 the same Divine fellowship of life in Christ Jesus our Lord.
+
+--
 
 Did the apostle John, that gave testimony of Christ as the light of the world,
 oppose his appearance in that body that was prepared for Him of the Father,
@@ -734,6 +797,9 @@ some of whom endeavored to draw him into argument on points of doctrine.
 At one time a common-prayer priest came with others, and asked him,
 "`If he was grown up to perfection.`"
 
+[.embedded-content-document]
+--
+
 I told him, says George, that "`what I was, I was by the grace of God.`"
 He replied: "`It was a modest and civil answer.`"
 Then he urged the words of John: "`If we say we have no sin, we deceive ourselves,
@@ -773,6 +839,8 @@ who contended against Job.`"
 The justest man that is, sins seven times a day?`"
 "`Why, truly,`" said I,
 "`I say there is no such scripture;`" and with that the priest`'s mouth was stopped.
+
+--
 
 In the last sermon that minister of Christ, William Dewsbury, preached,
 are the following weighty expressions:
