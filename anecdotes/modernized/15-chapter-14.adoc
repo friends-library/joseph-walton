@@ -3,6 +3,9 @@
 In an account of the experiences of their family in the Irish Rebellion of 1798,
 written by Dinah Goff, a member of the Society of Friends, she says:
 
+[.embedded-content-document.letter]
+--
+
 It was about the middle of the Fifth Month, 1798, that the county of Wexford, in Ireland,
 became a scene of open rebellion, headed by B+++_______+++ H+++_______+++, a Protestant,
 and two Roman Catholic priests, John Murphy and Philip Roche.
@@ -233,6 +236,8 @@ nor witnessed anything of the kind; but they all united in prayer on their knees
 and the mother said: "`I never heard such a minister as that gentleman;
 he must be an angel from heaven sent to you!`"
 
+--
+
 During the dreadful scenes that were enacted in Ireland during the rebellion of 1798,
 the members of the Society of Friends, who refused military protection,
 and relied on the protecting care of the Almighty,
@@ -244,6 +249,9 @@ and issued forth by night to plunder those within their reach.
 Dinah Goff describes two such visits paid to her father`'s house,
 who had been urged to accept the nightly services of a guard, but had positively refused.
 She says:
+
+[.embedded-content-document]
+--
 
 On the first night, having all retired to rest,
 we were aroused by the terrific knocking with muskets at the hall door.
@@ -363,6 +371,8 @@ In about a quarter of an hour my valued and tender parent returned, pale and exh
 and, throwing himself on the sofa, said: "`This work will finish me;
 I cannot hold out much longer;`" which proved to be the case.
 
+--
+
 Remarkable also was the protecting care vouchsafed
 to my uncle Joshua Wilson (my mother`'s brother),
 whose residence at Mount Prospect, near Rathangan,
@@ -387,6 +397,9 @@ illustrating the safety of depending on the Lord for protection.
 It occurred in one of the back settlements,
 when the Indians had been employed to burn the dwellings of the settlers,
 and cruelly to murder the people.
+
+[.embedded-content-document]
+--
 
 One of those solitary habitations was in the possession of a Friend`'s family.
 They lived in such secure simplicity,
@@ -447,12 +460,17 @@ though incited by the whites to kill and scalp the enemy, never molested the Fri
 as the people of Father Onas, or William Penn,
 and as the avowed opponents of all violence.
 
+--
+
 During the war between the Northern and Southern States, from 1861 to 1865,
 many of the members of the Society of Friends were exposed to much
 suffering on account of their testimony against war;
 one, who resided in Ohio,
 relates the following experiences of being drafted
 for military service in the United States army:
+
+[.embedded-content-document]
+--
 
 In the year 1864 I was drafted, according to the laws of the land, and one day,
 while pleasantly enjoying the company of some intimate friends at my house,
@@ -516,8 +534,10 @@ While reflecting, William came (he having been in another part of town,
 and felt an impression to come immediately to the office), and accosted me thus:
 "`What are you doing?`"
 
+[.offset]
 I replied: "`I have just been considering whether I should sign my name to this.`"
 
+[.offset]
 He answered: "`I would do no such thing.`"
 
 I requested an hour to consider it.
@@ -690,6 +710,8 @@ Thus was I relieved from the hands of unprincipled men,
 and restored to the bosom of my family, with a reward of peace.
 All praise to Him that enabled me to endure the cross and despise the shame, to his glory.
 
+--
+
 The sufferings of Friends in the Southern States, especially in North Carolina,
 during the war brought on by the slaveholders,
 far exceeded those of their fellow professors in the North.
@@ -702,6 +724,9 @@ furnish interesting illustrations of the conscientious faithfulness of the suffe
 and of the preserving power of the Lord extended for the help of his obedient followers.
 Friends of North Carolina published an account of the suffering inflicted on their members,
 from which the following narratives are extracted:
+
+[.embedded-content-document]
+--
 
 S+++.+++ F., who had become a member with us after the passage of the exemption act,
 and could not avail himself of it, was arrested in the Twelfth Month, 1864,
@@ -925,6 +950,8 @@ when he was again sent back to camp.
 This severe treatment had now been continued for four or five weeks, when a Friend,
 who was searching for them, obtained first, the suspension of this cruelty,
 and soon after, by application to Richmond, their release.
+
+--
 
 In the Spring of 1862, two brothers, H. M. H. and J. D. H. were drafted,
 arrested and taken to Raleigh.
@@ -1203,6 +1230,9 @@ Joshua Evans, a minister in the Society of Friends, mentions that,
 about the year 1706 war was being waged between the English and French.
 He says:
 
+[.embedded-content-document]
+--
+
 On a certain occasion a number of our young men were
 drafted to go as soldiers on an expedition,
 but some of the inhabitants concluded on opening
@@ -1256,12 +1286,18 @@ It seems to me we might as well suppose that theft
 and murder do not contradict his royal law,
 which enjoins the doing unto others as we would have them do unto us.
 
+--
+
+[.blurb]
 === Faithful Testimony Against War
 
 During the war of the American Revolution, a young man named Moses Sleeper,
 who resided in Maine, was ordered to join a militia company on a certain day.
 He believed that war was wrong, and on this account refused to obey the order.
 For so doing, he says:
+
+[.embedded-content-document]
+--
 
 I was taken by an officer and file of men to fort Halifax, eighteen miles up the river,
 and there shut up in a loathsome fish-room in an old block-house,
@@ -1278,7 +1314,8 @@ Soon after, I being under the care of the same sentinel,
 and in view of every part of the encampment, one of the captains came up to me,
 and the following interview took place aside from the sentinel:
 
-Captain.--Moses,
+[.discourse-part]
+__Captain__--Moses,
 I can inform you that the court have made up their minds
 upon the several charges exhibited against you,
 and though it is against martial rules for a court
@@ -1290,35 +1327,44 @@ and I have been soliciting the commander to have the punishment taken off,
 knowing it is in his power so to do, but cannot prevail;
 but if you will take my advice you may evade punishment.
 
-Prisoner.--Captain, you tell me that I am to receive a punishment,
+[.discourse-part]
+__Prisoner__--Captain, you tell me that I am to receive a punishment,
 and that you can put me in a way to evade it.
 You will be so good as to point out a way by which I can escape a punishment,
 though justifiable by martial law, yet unjust in the sight of God.
 If I can with peace of mind, I will naturally accept your proposal.
 
-Captain.--The way I propose is this: The wood you see is but a few paces off.
+[.discourse-part]
+__Captain__--The way I propose is this: The wood you see is but a few paces off.
 Step out into those woods, which are very thick, continue there hidden until dark.
 You may then retire to the barn, if you please, till tomorrow morning,
 then your time is out and they cannot touch you.
 
+[.offset]
 (It was then about three o`'clock p.m.)
 
-Prisoner.--It is with feelings of gratitude, captain,
+[.discourse-part]
+__Prisoner__--It is with feelings of gratitude, captain,
 that I have noticed your kindness to me during my confinement,
 and more especially in these your efforts to get me released
 from punishment to be inflicted by martial law,
 but how am I to get to these woods?
 
-Captain.--I will call off the sentinel.
+[.discourse-part]
+__Captain__--I will call off the sentinel.
 
-Prisoner.--You can not do that without yourself becoming responsible.
+[.discourse-part]
+__Prisoner__--You can not do that without yourself becoming responsible.
 
-Captain.--Moses, if you will consult your own safety, you will take my advice.
+[.discourse-part]
+__Captain__--Moses, if you will consult your own safety, you will take my advice.
 I will call off the sentinel, and risk the consequences.
 
-Prisoner.--Captain, I thank you heartily for your kindness to me in this affair,
+[.discourse-part]
+__Prisoner__--Captain, I thank you heartily for your kindness to me in this affair,
 but cannot with clearness accept your proposal.
 
+[.offset]
 (Upon which he shook his head, turned and went direct to the colonel`'s quarters,
 and in about twenty minutes came back to me again.)
 
@@ -1369,8 +1415,7 @@ Upon which the commander and the other officers present formed the plan
 of sending the captain to use his influence to get me to absent myself,
 and not prevailing, the commander thought best to take the punishment off as related.
 
-[.asterism]
-'''
+--
 
 In the early part of last century, some Friends,
 bound on a religious visit to the West India Islands,
@@ -1525,6 +1570,9 @@ and the probable confinement and suffering he would undergo,
 must have been very trying to him.
 He says, respecting it:
 
+[.embedded-content-document.letter]
+--
+
 When I looked at my present situation, and what was likely to be the consequence,
 fearing I might be a stumbling-block in the way of many, and bring dishonor to Truth,
 I was much cast down, and did often cry, "`Lord, if I had been worthy,
@@ -1532,6 +1580,8 @@ you would have preserved me out of the hands of such unreasonable men.`"
 But the good Shepherd of Israel did cast his mantle of love over me, and still my crying,
 so that I was in a good degree made willing to submit to
 what he should see fitting to allow to come upon me.
+
+--
 
 He was favored with stillness and sweet composure,
 which fortified him against the assaults of the enemy.
@@ -1577,6 +1627,9 @@ there being nothing better in the cabin, and his mind being released from the ex
 he fell asleep also, and though stiff when he awoke, did not take cold.
 He says:
 
+[.embedded-content-document.letter]
+--
+
 The Lord was pleased to preserve me, though I often said in my mind,
 I did not think myself worthy,
 especially because he had permitted this great exercise to come upon me,
@@ -1586,6 +1639,8 @@ I often cried to Him in the secret of my heart, that if there was iniquity lodgi
 He would be pleased to take it away; and if my going was not consistent with his will,
 that He would be pleased to show me wherein I had missed my way,
 that I might not bring a reproach upon the Truth, and trouble upon his people.
+
+--
 
 When breakfast was over,
 they searched the prisoners to see what they could get from them;
@@ -1643,6 +1698,9 @@ William remarked: "`By turning our minds to the light of Christ in our hearts,
 which reproves for sin, as we came to yield obedience to it,
 we should be helped to overcome our weaknesses.`"
 
+[.embedded-content-document.letter]
+--
+
 She said I was a saint, and had overcome the temptations of the world.
 I said, what I am, it is by grace.
 I have nothing to boast of, and by grace I am saved out of many temptations of the world;
@@ -1652,6 +1710,8 @@ My mind was opened to point out to them the way of salvation;
 Scripture being brought to confirm the sufficiency,
 work and operation of the grace of God upon the hearts of the children of men,
 with the saving help there is in it, as obedience is yielded, unto it.
+
+--
 
 He had his quarters in a tavern at Morlaix in France for several days,
 subjected to much company of various sorts.
@@ -1687,6 +1747,9 @@ with whom he conversed on religious subjects.
 He said he understood Friends did not baptize with water.
 William replied:
 
+[.embedded-content-document.letter]
+--
+
 The apostle says: "`There is one Lord, one faith and one baptism;`" and water, how,
 or by whomsoever administered, is only sufficient to put away the filth of the flesh,
 but not able to wash away the sin of the soul.
@@ -1719,6 +1782,8 @@ we might know them by their fruits; for, according to Christ`'s own words,
 "`Men do not gather grapes of thorns, or figs of thistles.`"
 He further says to his ministers: "`Freely you have received, freely give.`"
 
+--
+
 Hearing that the commissary had uttered some bitter expressions against the Quakers,
 and him in particular, for not putting off his hat when they met in the street,
 he inclined to visit him, and took with him a young man to interpret for him.
@@ -1729,6 +1794,9 @@ uncovering our heads was what we did when we prayed and addressed the Almighty;
 but to do it to our fellow creatures was against our consciences.
 The answer, though short, appeared to satisfy him, for his haughty countenance fell,
 and he then spoke mildly, and said he had heard we did not baptize our children.
+
+[.embedded-content-document.letter]
+--
 
 I said we did not use water baptism.
 "`What do you then,`" said he "`instead of water?`"
@@ -1743,6 +1811,8 @@ but all the service that lay in his power.
 I took my leave of him with thankfulness that Truth had thus far prevailed;
 and ever after when I met him, he looked pleasantly,
 and I believe never any more took offence at my hat.
+
+--
 
 About the middle of the eighteenth century,
 Friends of Pennsylvania were brought into much difficulty and mental
@@ -1866,6 +1936,9 @@ treaty is referred to in an interesting manner by the committee,
 in a report made on their return to Philadelphia.
 Under date of Eleventh Month 17th, they say:
 
+[.embedded-content-document.letter]
+--
+
 Tedyuscung and most of his people came down to the ferry-house and dined with us;
 before parting with I. Zane and I. Pemberton, he took them aside and told them +++[+++that]
 in conversation after dinner, a few days before,
@@ -1882,3 +1955,5 @@ and was so much affected he could only by tears express his respect, which,
 as it appeared to be the effect of a Divine visitation to a savage barbarian,
 was a humbling scene,
 and excited reverent and thankful sentiments in the minds of those directly observing it.
+
+--

@@ -18,6 +18,9 @@ The records of the Society furnish many instances of the firmness
 with which Friends refused to perform military services.
 One of the most interesting of these is the case of Richard Seller:
 
+[.embedded-content-document]
+--
+
 Richard Seller was a fisherman of Kilnsea, on the coast of Yorkshire,
 who had been convinced of the truth of the Gospel, as held by the Society of Friends.
 During the war between the English and Dutch, about the year 1665,
@@ -277,7 +280,13 @@ of Him who can change the hearts and purposes of men at his will.
 And thus was he enabled to triumph over the malice of his enemies, who,
 conscious at length of his innocence and virtue, became his friends and favorers.
 
+--
+
+[.offset]
 The narrative of Thomas Lurting is, perhaps, equally instructive:
+
+[.embedded-content-document]
+--
 
 He was for some time boatswain`'s mate on board a British man-of-war,
 and during the period of his being thus employed,
@@ -590,8 +599,13 @@ but he and his mate were of another mind,
 and they made it appear that they did practically approve the command of our Saviour:
 "`Love your enemies, and do good to them that hate you.`"
 
+--
+
 That wise man and noble Christian, Edward Burrough, in an epistle to Friends in 1660,
 thus unfolds the position of the true Christian as respects war:
+
+[.embedded-content-document]
+--
 
 As for all confusions, and distractions, and rumors of wars, what are they to us?
 What have we to do with them?
@@ -621,8 +635,13 @@ and praying for our enemies, and not hating them, but doing good for evil,
 and not rendering evil for evil; but being meek and humble,
 merciful and patient towards all.
 
+--
+
 When John Richardson visited the Island of Barbados in the year 1702,
 he had an interview with the governor, when the following conversation occurred:
+
+[.embedded-content-document]
+--
 
 "`I want to know the reasons why you as a people
 do not assist the king and country with men and arms,
@@ -653,12 +672,17 @@ you have nothing to fly to but the Lord;
 you say very well;`" and said he hoped what he had offered had not given any offence.
 I replied, it was so far from that, we were glad he was so free with us.
 
+--
+
 In the support of their testimony against war, Friends in Pennsylvania, New Jersey, etc.,
 were brought under much concern near the middle of the eighteenth
 century by the outbreak of hostilities with the Indians and French,
 and the growth of a military spirit among the people who then far outnumbered our members.
 The minutes of the Meeting for Sufferings in 1757,
 contain the following remarkable statement:
+
+[.embedded-content-document]
+--
 
 There are some yet living in this country, who are witnesses,
 that so long as the people lived in the fear of God, walked in humility before Him,
@@ -668,6 +692,8 @@ protecting providence, remarkably conspicuous; for though we had no outward barr
 the sword was not permitted to enter within our borders,
 but the salvation of the Lord was a defence round about; but now blood has been spilt,
 and the land is polluted therewith, and the sound of war is heard.
+
+--
 
 A few years after these troubles had passed away,
 the attempt of the British government to impose a tax on the colonies,
@@ -894,7 +920,11 @@ to the principles of Friends in times of great danger.
 A manuscript account, drawn up by Joseph Haughton, of Ferns, in Leinster,
 relates scenes of which he was an eye-witness.
 
+[.offset]
 The writer says:
+
+[.embedded-content-document]
+--
 
 Having often meditated on the merciful preservation which I,
 with others of the Society of Friends,
@@ -1123,8 +1153,11 @@ and the rule was for every man to act according to his own will.
 I recoil at the prospect of the wickedness of man, unrestrained by law or religion!
 Well indeed did Young say;
 
+[verse]
+____
 Heaven from all eyes conceals, but from his own
 That hideous sight, a naked human heart.
+____
 
 And it is so in great mercy--but now, for a little space,
 the bosom became as it were transparent,
@@ -1243,6 +1276,8 @@ the three Friends returned to their families at Clonmel,
 where they were joyfully and thankfully received by their relatives and friends; who,
 when parting from them, feared they should never meet again.
 
+--
+
 During the Revolutionary war,
 the inhabitants of Nantucket were placed in a very trying position.
 The revolted colonies had no fleet to protect them; and,
@@ -1255,6 +1290,9 @@ take any part in military operations.
 William Rotch, who was a prominent citizen of the island,
 has left an interesting account of their experiences during that trying period.
 He says:
+
+[.embedded-content-document]
+--
 
 When the Revolutionary war broke out in 1775,
 I saw clearly that the only line of conduct to be pursued by us,
@@ -1299,11 +1337,16 @@ It made a great noise in the country, and my life was threatened.
 I would gladly have beaten them into "`pruning hooks.`"
 As it was, I took an early opportunity of throwing them into the sea.
 
+--
+
 A short time after,
 he was called before a committee appointed by the court then held at Watertown,
 near Boston, and questioned among other things, respecting these bayonets,
 to whom he gave a candid account of his proceedings.
 He adds:
+
+[.embedded-content-document]
+--
 
 I passed through no small trial on account of my bayonets,
 and the clamor long continued against me.
@@ -1328,11 +1371,16 @@ and great suffering for lack of food was likely to take place; +++[+++so]
 that the people (not Friends) who thought we ought to have joined in the war,
 began to chide and murmur against me.
 
+--
+
 The difficulty to which the Friends of Nantucket
 were subjected in procuring the necessaries of life,
 on account of the faithful maintenance of their testimony against war,
 is further shown by the following extracts from letters of William Rotch,
 to his friends John and James Pemberton, of Philadelphia:
+
+[.embedded-content-document]
+--
 
 Eleventh Month 24th, 1775.--The article of flour we are almost entirely destitute of,
 but are now sending to different parts for, which, if we are denied,
@@ -1375,6 +1423,8 @@ I believe will not be without their trials; indeed,
 it is likely that Friends in all places will be brought under deep sufferings,
 and a great separation be made between the chaff and the wheat.
 
+--
+
 While the resolution of the people of Nantucket to maintain a non-resistant
 and neutral attitude thus exposed them to sufferings from the Americans,
 they were also frequently despoiled by marauding parties of the British,
@@ -1400,6 +1450,9 @@ and succeeded in obtaining an interview with several of the British officers.
 In reference to this visit to general Prescott, then in command, William Rotch remarks,
 in his autobiographical account:
 
+[.embedded-content-document]
+--
+
 I got on shore in the afternoon, and found that I must wait on general Prescott.
 Knowing his brittle temper, and it being in the afternoon,
 I almost dreaded to appear in his presence.
@@ -1423,6 +1476,8 @@ His answer was: "`Oh, no; if a Quaker will but be a Quaker, it is all I want of 
 he is no Quaker`" (naming one of our profession,
 and I was sorry for the cause of this remark).
 
+--
+
 The interviews with general Prescott and others in authority at Newport,
 resulted in obtaining permission for the committee to visit New York,
 in order to lay before the commander-in-chief a statement of their condition,
@@ -1433,6 +1488,9 @@ and applied to commodore Collier, of the navy, and general Clinton, of the army;
 the latter of whom intimated that he would direct
 those in his department not to molest them.
 William Rotch states:
+
+[.embedded-content-document]
+--
 
 In representing our case to sir George Collier,
 he readily gave us an order forbidding any British
@@ -1446,6 +1504,8 @@ On his understanding the reasonableness of our request,
 he ordered that all our men should be released who were not taken
 in armed vessels (for such we had no right to apply),
 and promised that it should not be so in future, so long as he held the command.
+
+--
 
 While thus exposed to robbery on land,
 these islanders were also in danger of losing a great portion of
@@ -1467,6 +1527,9 @@ was appointed to go to New York on this errand.
 He was at this time recovering from severe illness, and wished to decline this journey,
 but the others refused to go, unless he would accompany them.
 
+[.embedded-content-document]
+--
+
 This, +++[+++he says,]
 brought a great strait upon my mind.
 To go, I thought, I could not, and to omit it seemed almost inevitable destruction.
@@ -1476,6 +1539,8 @@ I was obliged to have them go to the east side of the island, and lie there seve
 for my pain was so great that I could not bear the motion of the vessel;
 but we got safely to New York in a few days after it abated.
 
+--
+
 On making application for protection against three
 British cruisers then in the harbor of Nantucket,
 and some permits for the fishery,
@@ -1484,6 +1549,9 @@ and the officer to whom they applied for assistance,
 had been led to believe that they had betrayed the confidence placed in them,
 by giving the permits to a greater number of vessels than was originally intended.
 William Rotch, however, was able to satisfy him that this report was incorrect, stating
+
+[.embedded-content-document]
+--
 
 "`These permits were put into my hands; I delivered them, taking receipts for each,
 to be returned to me at the end of the voyage,
@@ -1508,6 +1576,8 @@ but such was the difficulty of distinguishing them,
 that two were presented to American armed vessels,
 who immediately took the vessels as prizes.
 
+--
+
 The difficulty they experienced from the Americans,
 finally made it necessary to obtain permits from both the contending parties,
 and in order to procure them from Congress, then sitting at Philadelphia,
@@ -1525,6 +1595,9 @@ was soon after received, and protection of this kind became unnecessary.
 Some time after their return home from their visit to New York, about the year 1781,
 the peaceful community in Nantucket was again threatened with a hostile invasion.
 William Rotch says:
+
+[.embedded-content-document]
+--
 
 We were now brought into the most imminent danger, which no human effort could check,
 much less prevent.
@@ -1544,8 +1617,13 @@ with the disagreeable information that they were at hand.
 A solemn time it was, indeed,
 and can never be obliterated from my memory while life and reason are vouchsafed.
 
+--
+
 The following account of preservation from great
 personal danger is given in his own words:
+
+[.embedded-content-document]
+--
 
 I was, with two men and two women Friends, captured in going to our Quarterly Meeting,
 at Sandwich +++[+++Massachusetts], by a British privateer from New York.
@@ -1575,6 +1653,8 @@ but her men left her in their boats, and got on shore in the Vineyard.
 Our vessel being taken, I recovered her by paying salvage,
 as did a young man most of his money, who had two hundred dollars taken from him.
 
+--
+
 The preliminary treaty of peace between Great Britain and the United States,
 was signed Eleventh Month 30th, 1782, and in the Ninth Month, 1783,
 a definitive treaty was concluded,
@@ -1591,6 +1671,9 @@ while William Rotch concluded to proceed to England,
 in order to ascertain whether sufficient encouragement could
 be obtained for the prosecution of the business from there.
 He remarks:
+
+[.embedded-content-document]
+--
 
 The happy return of peace was now enjoyed in the United States, but poor Nantucket,
 whose distresses did not end with the war, though rejoiced at the event,
@@ -1665,6 +1748,8 @@ and to ascertain if the fishery is an object worth giving such encouragement to,
 for a removal to England, as the subject deserves.`"
 Thus our conversation ended, and I withdrew with my friend, Harry Beaufoy.
 
+--
+
 The negotiations with the English Government received little attention from that body,
 and finally, William Rotch concluded to address the French Government,
 who acceded to his proposals,
@@ -1688,6 +1773,9 @@ we now had of somewhat spreading a knowledge of our principles;--above all,
 that of the inward light or spirit of God in every
 man as a primary rule of faith and practice.`"
 
+[.embedded-content-document]
+--
+
 We met with a number of serious persons who were in a great
 measure convinced of the rectitude of our faith,
 and they gathered about us at our hotel, one evening after another,
@@ -1700,6 +1788,8 @@ Several of these valuable persons fell in the reign of terror,
 and others are beyond my knowledge; but the remembrance of those evenings,
 and the feeling of Divine influence that attended them, will, I believe, never pass away.
 
+--
+
 In the period of war which soon followed,
 Friends at Dunkirk were several times exposed to great danger from their refusal
 to illuminate their houses on account of victories gained by the French armies.
@@ -1711,9 +1801,14 @@ the withdrawal of a part of this colony of Friends,
 but meetings appear to have been kept up by those that remained at Dunkirk,
 for several years.
 
+[.blurb]
 === Joesph Hoag on War and Fighting
 
+[.offset]
 +++[+++In the year 1812, while Joseph Hoag was travelling in Tennessee, he says:]
+
+[.embedded-content-document]
+--
 
 We stopped on our way at Knoxville, to take breakfast;
 the Indians having made an invasion on the frontiers of the white inhabitants,
@@ -1844,8 +1939,7 @@ I then felt easy that all was done that could be done.
 I had the same man`'s word who had said:
 "`No favor should be shown the Quakers,`" now pledge his honor to protect them.
 
-[.asterism]
-'''
+--
 
 In a short sketch of the life of John Bringhurst, of Philadelphia,
 who deceased in the year 1750, there is embraced a copy of a testimony of disownment,
@@ -1853,6 +1947,9 @@ prepared by a committee of which he was a member,
 issued against a Friend who had joined in fitting out a vessel of war.
 It is an interesting illustration of the care observed by Friends of that
 day to preserve the members in consistency with their profession:
+
+[.embedded-content-document]
+--
 
 Whereas, +++_______+++, of this city, merchant, has many years made profession among us,
 the people called Quakers, and by his conduct,
@@ -1887,6 +1984,9 @@ the said +++_______+++, to be a member of our religious Society,
 until he becomes sensible of his errors, and, being willing to acknowledge them,
 is desirous of being restored to the unity of his friends.
 
+--
+
+[.blurb]
 === Hugh Davids--Soldier and Quaker
 
 At the period of the American Revolution,
@@ -1921,6 +2021,9 @@ It also appears that he had filed with the king`'s counsel
 a document by which he surrendered his commission and pay.
 This paper was as follows:
 
+[.embedded-content-document]
+--
+
 I, Hugh Davids, the subscriber,
 having for some years past held a commission as cornet
 of horse under the king of Great Britain,
@@ -1946,12 +2049,14 @@ I may further certify that I have not acted in this
 matter from political or disrespectful motives,
 but from those of a religious and conscientious nature only.
 
-[.asterism]
-'''
+--
 
 The following extracts from the diary of John Pemberton,
 one of the Friends who was arbitrarily sent into exile in Virginia, are interesting,
 as showing the Christian spirit which animated the sufferers:
+
+[.embedded-content-document]
+--
 
 On the Second-day of Ninth Month, 1777, about two o`'clock p.m.,
 three persons came to my house,
@@ -2075,6 +2180,9 @@ Many hundreds of people were ranged along the alley, some of them much affected;
 and many poor blacks, as well as others, after I was in the wagon, shook me by the hand,
 being affected with our hard treatment.
 
+--
+
+[.blurb]
 === How Friends in France Became Known to Their English Brethren
 
 Joseph Fox, of Falmouth,
