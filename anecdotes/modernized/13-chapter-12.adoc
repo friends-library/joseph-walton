@@ -316,10 +316,11 @@ which is clear and conclusive on this subject.
 It may be found in vol.
 xvi, page 366 of _The Friend_.
 
-The King`'s Missive, 1661.
+[.old-style]
+=== The King`'s Missive, 1661. / J+++.+++ G. Whittier
 
-J+++.+++ G. Whittier
-
+[verse]
+____
 Under the great hill sloping bare
 To cove and meadow and common lot,
 In his council chamber and oaken chair,
@@ -483,7 +484,12 @@ With its gentler mission of peace and good-will
 The thought of the Quaker is living still,
 And the freedom of soul he prophesied
 Is Gospel and law where its martyrs died.
+____
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John G. Whittier`'s Reply to George E. Ellis
 
 A friend has called my attention to a paper read by doctor
@@ -538,7 +544,8 @@ who had so wonderfully delivered them out of the teeth of the devourer;`" and th
 while they were thus met, "`In came a poor Friend, who,
 being sentenced by their bloody law to die, had lain some time in irons,
 expecting execution.`"
-Dr. Evans, in his carefully compiled [.book-title]#History of Friends in the Seventeenth Century#, says:
+Dr. Evans, in his carefully
+compiled [.book-title]#History of Friends in the Seventeenth Century#, says:
 "`The council issued an order to the keeper of the prison
 to set at liberty all the Quakers then in confinement.`"
 Page 250.
@@ -763,15 +770,17 @@ Holding their doctrine, and reverencing their memories,
 we look back awed and humbled upon their heroic devotion to apprehended duty,
 and with gratitude to God for their example of obedience unto death.
 
+[.signed-section-closing]
 Amesbury, Third Month 22nd, 1881.
 
+[.signed-section-signature]
 John G. Whittier
+
+--
 
 Our beloved poet, John G. Whittier,
 has described some of the sufferings of New England Friends in a piece entitled,
-_How the Women Went from Dover._
-
-How the Women Went from Dover^
+__How the Women Went from Dover.__^
 footnote:[The following is a copy of the warrant, issued by Major Waldron of Dover,
 in 1662.
 {footnote-paragraph-split}
@@ -789,8 +798,7 @@ and so to convey them from constable to constable,
 till they are out of this jurisdiction, as you will answer it at your peril;
 and this shall be your warrant.
 {footnote-paragraph-split}
-Dated at Dover, December 22,
-1662.
+Dated at Dover, December 22, 1662.
 {footnote-paragraph-split}
 Richard Waldron
 {footnote-paragraph-split}
@@ -805,8 +813,11 @@ and an opponent of ecclesiastical authority.
 He had the moral courage to address an able and manly letter to the court at Salem,
 remonstrating against the witchcraft trials.]
 
-John G. Whittier
+[.old-style]
+=== How the Women Went from Dover / John G. Whittier
 
+[verse]
+____
 The tossing spray of Cocheco`'s fall
 Hardened to ice on its rocky wall,
 As through Dover town, in the chill, gray dawn,
@@ -952,6 +963,7 @@ How much thy beautiful life may owe
 To her faith and courage thou canst not know,
 Nor how from the paths of thy calm retreat
 She smoothed the thorns with her bleeding feet.
+____
 
 The historian Sewell says that about the year 1662 there was published
 in print a short relation of the persecution throughout all England,
@@ -984,6 +996,9 @@ George Whitehead speaks of how wonderfully the Lord
 supported and comforted them when confined in prison.
 He says:
 
+[.embedded-content-document]
+--
+
 In the comfortable enjoyment of his glorious Divine power and presence,
 several of us have often been made to sing aloud in praise to his glorious name; yes,
 his high praises have been in our mouths oftentimes to the great amazement
@@ -995,10 +1010,15 @@ how precious to be enjoyed in prisons and dungeons, and strait confinements.
 Glory and dominion be to our God and to the Lamb
 that sits upon the throne forever and ever.
 
+--
+
 On one occasion,
 George Whitehead was arrested in a religious meeting and taken before persecuting magistrates,
 who unjustly and illegally ordered him to be whipped as a vagrant.
 He says:
+
+[.embedded-content-document]
+--
 
 The said warrant was the next day after its date
 put into severe execution by a foolish fellow,
@@ -1021,6 +1041,8 @@ that even then my spirit was raised;
 and my mouth opened to sing aloud in praises to the Lord my God,
 that He counted me worthy to suffer for his name and Truth`'s sake.
 
+--
+
 In 1661,
 when the deputies of New England came to London to try to clear themselves of the blood
 of the martyrs which they had shed (for freedom to hunt a Quaker to death was not at
@@ -1033,6 +1055,9 @@ William Robinson`" (one of those that were put to death) "`were in town,
 it was probable he would question them, and bring their lives into jeopardy,
 seeing that he, not being of the Quakers`' persuasion,
 would perhaps not have so much regard to the point of forbearance as they had.`"
+
+[.embedded-content-document]
+--
 
 Their courage and faithfulness in not giving up their meeting
 together did so weary out the malice of their adversaries,
@@ -1047,6 +1072,8 @@ they have met the next day openly upon the rubbish&hellip; and when the
 malice of their oppressors stirred them to take shovels,
 and throw the rubbish upon them, there they stood unmoved, being willing,
 if the Lord should so permit, to have been there buried alive, witnessing for Him.
+
+--
 
 Barclay might well say,
 "`that this way of suffering,`" made the persecutors`'
@@ -1076,12 +1103,17 @@ The devil was king.
 
 Howard thus simply tells his impressions as to the treatment of prisoners:
 
+[.embedded-content-document]
+--
+
 Some who by the verdict of juries were declared not guilty--some on whom the grand jury
 did not find such an appearance of guilt as subjected them to a trial--and some whose
 prosecutors did not appear against them--after having been confined for months,
 were dragged back to jail and locked up again until
 they should pay sundry fees to the jailer,
 the clerk of assize, and such like.
+
+--
 
 He also remarked that the "`hard-hearted creditors,
 who sometimes threatened their debtors that they should rot in jail,
@@ -1133,6 +1165,9 @@ who was imprisoned in Kendal jail for not going to church, as it was called.
 Here she was taken sick.
 She said:
 
+[.embedded-content-document]
+--
+
 That her "`imprisonment was by the permission of the Almighty, who is greater,
 and above the greatest of my persecutors,
 who I believe will shortly set me free from these, and all other bonds,
@@ -1147,6 +1182,8 @@ But more especially she was glad in the love and unity she felt with Friends; wi
 said she: "`I have been often refreshed in our meetings together,
 with the refreshment that comes from the presence of the Lord.
 Oh!--the good evening meetings we have had.`"
+
+--
 
 Her mother seeing her lie under great weight of sickness, would sometimes weep;
 but she was always troubled at it, and said: "`Dear mother, do not weep,
@@ -1260,6 +1297,9 @@ He was a man "`valiant for the Truth,`" and when
 on his deathbed from a sickness contracted in jail,
 he said to some Friends who came to visit him:
 
+[.embedded-content-document]
+--
+
 Friends, be faithful and trust in the Lord your God; for this I can say,
 I never played the coward, but as joyfully entered prisons as palaces.
 And in the prison-house I sang praises to my God,
@@ -1271,6 +1311,8 @@ I have nothing to do but to die, and put off this corruptible and mortal taberna
 this body of flesh, that has so many infirmities;
 but the life that dwells in it ascends out of the reach of death, hell and the grave;
 and immortality and eternal life is my crown forever and ever.
+
+--
 
 Robert Lodge, also of Yorkshire,
 was convinced of the principles of Friends when about eighteen years of age.
@@ -1406,7 +1448,11 @@ which he still accounted his buckler and his shield, his bow and his battle-axe,
 and by and through which, he was what he was, and to which alone, and not to him as man,
 the praise and glory of all was attributed.
 
+[.offset]
 When Christopher Healy was on his deathbed he remarks:
+
+[.embedded-content-document]
+--
 
 What a consolation it is to me that I can say at such a time as this,
 that I feel no condemnation; everything looks pleasant; yes,
@@ -1414,11 +1460,19 @@ as clear and as bright as the light.
 I have that hope which is as an anchor to the soul, both sure and steadfast,
 and enters into that within the veil, where our Forerunner has gone.
 
+--
+
+[.offset]
 On the sixth of Fifth Month, 1851, he expressed thus:
+
+[.embedded-content-document]
+--
 
 Oh Lord, you are good and kind to your truly exercised children!
 You have been my stay and my staff through my pilgrimage.
 Be pleased to continue to be to the latest period of my life.
+
+--
 
 Throughout the progress of his indisposition,
 he was remarkably preserved in a comfortable, waiting state,
@@ -1445,6 +1499,9 @@ His last words were, "`Peace, peace.`"
 
 Deborah Bell, an English Friend,
 was seized with an attack of pleurisy which appeared to be the cause of her death.
+
+[.embedded-content-document]
+--
 
 When her pain was very great, she expressed herself at times after the following manner:
 "`This is hard work indeed.
@@ -1504,6 +1561,8 @@ She replied: "`I never doubt that.
 I trust through Christ to be received into the arms of eternal bliss, for I am in peace,
 and perfectly easy.`"
 
+--
+
 It is recorded of Job Thomas, a Welsh Friend, that about the year 1797,
 near his own dwelling, he was thrown from a young horse,
 and received so great an injury on the spine,
@@ -1536,6 +1595,9 @@ he called his wife and son to his bedside; and, with a pleasant countenance,
 spoke to them, in the Welsh language, nearly as follows.
 
 He inquired of them, whether they had anything to say to him; "`for,`" said he:
+
+[.embedded-content-document]
+--
 
 The blessed hours are approaching; yes;
 and before this night I shall have escaped in safety,
@@ -1591,7 +1653,13 @@ Behold, the blessed time is come, for me to depart in peace with everyone,
 with good desires for everyone, and forgiving everyone.
 Receive my last farewell, and the Lord bless you with the blessings of Mount Zion.
 
+--
+
+[.offset]
 The account preserved of the last sickness of Samuel Emlen, of Philadelphia, says:
+
+[.embedded-content-document]
+--
 
 During his waking hours, the attributes of his God, whom he had long served,
 were almost his perpetual theme.
@@ -1657,6 +1725,8 @@ but feeling again the clogs of humanity he said in a low voice:
 These were his last words; a few minutes after which he departed without sigh, groan,
 or struggle, about half past four o`'clock,
 on the morning of the thirtieth of the Twelfth Month, 1799.
+
+--
 
 In the case of David Barclay, the father of the Apologist,
 was fulfilled the language of Holy Writ: "`Mark the perfect man and behold the upright,
