@@ -1,5 +1,6 @@
 == Chapter XII. Persecution
 
+[.blurb]
 === William Leddra
 
 We have not much information respecting this faithful man and martyr for the Truth,
@@ -1101,6 +1102,7 @@ Religious worship was unknown.
 The place was made over to Beelzebub.
 The devil was king.
 
+[.offset]
 Howard thus simply tells his impressions as to the treatment of prisoners:
 
 [.embedded-content-document]
