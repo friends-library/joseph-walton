@@ -20,9 +20,14 @@ settled at Germantown, near Philadelphia, who formed a branch of Dublin Monthly 
 and this document is still preserved among the papers of Philadelphia Yearly Meeting,
 and is as follows:
 
-=== Germantown Friends`' Protest Against Slavery, 1688
+[.embedded-content-document.letter]
+--
 
-This is to the Monthly Meeting held at Richard Worrell`'s.
+[.letter-heading]
+Germantown Friends`' Protest Against Slavery, 1688
+
+[.centered]
+__This is to the Monthly Meeting held at Richard Worrell`'s.__
 
 These are the reasons why we are against the traffic of men-body, as followeth.
 Is there any that would be done or handled at this manner?
@@ -98,7 +103,17 @@ to whom it is a terror, or fearful thing, that men should be handled so in Penns
 This is from our meeting at Germantown, held the 18 of the 2 month, 1688,
 to be delivered to the Monthly Meeting at Richard Worrell`'s.
 
-Garret henderich Derick up de graeff Francis daniell Pastorius Abraham up Den graef
+[.signed-section-signature]
+Garret henderich
+
+[.signed-section-signature]
+Derick up de graeff
+
+[.signed-section-signature]
+Francis daniell Pastorius
+
+[.signed-section-signature]
+Abraham up Den graef
 
 At our Monthly Meeting at Dublin, the 30--2 mo., 1688, we have inspected the matter,
 above mentioned, and considered of it,
@@ -107,8 +122,10 @@ but do rather commit it to the consideration of the Quarterly Meeting;
 the tenor of it being nearly related to the Truth.
 On behalf of the Monthly Meeting,
 
+[.signed-section-closing]
 Signed,
 
+[.signed-section-signature]
 P+++.+++ Jo. Hart
 
 This, above mentioned, was read in our Quarterly Meeting at Philadelphia,
@@ -117,13 +134,22 @@ the 4 of the 4th mo.
 and the other two mentioned therein, to present the same to the above said meeting,
 it being a thing of too great a weight for this meeting to determine.
 
+[.signed-section-closing]
 Signed by order of the meeting,
 
+[.signed-section-signature]
 Anthony Morris
 
-=== Yearly Meeting Minute on the Above Protest
+--
 
-At a Yearly Meeting held at Burlington the 5th day of the 7th month, 1688.
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Yearly Meeting Minute on the Above Protest
+
+[.centered]
+__At a Yearly Meeting held at Burlington the 5th day of the 7th month, 1688.__
 
 A paper being here presented by some German Friends concerning
 the lawfulness and unlawfulness of buying and keeping negroes,
@@ -131,6 +157,8 @@ it was adjudged not to be so proper for this Meeting
 to give a positive judgment in the case,
 it having so general a relation to many other parts,
 and therefore at present they forbear it.
+
+--
 
 Although this strong appeal failed to elicit immediate action from the Yearly Meeting,
 yet there is reason to believe it was productive of good fruits;
@@ -144,6 +172,9 @@ He was a minister among Friends,
 and for about twenty years from 1746 he travelled much in the Middle and Southern States.
 In these journeys he bore a testimony against slavery, both by words and by practice.
 In speaking of one of these journeys, he says:
+
+[.embedded-content-document]
+--
 
 Two things were remarkable to me in this journey--first in regard to my entertainment;
 when I eat,
@@ -169,6 +200,8 @@ and though now many willingly run into it,
 yet in future the consequences will be grievous to posterity.
 I express it as it hath appeared to me, not at once or twice,
 but as a matter fixed on my mind.
+
+--
 
 The men of this generation who have seen the bitter calamities
 brought on our country by the late civil war,
@@ -198,6 +231,9 @@ and the Yearly Meeting encouraged those who felt concerned on this account,
 to labor with such.
 One who was engaged in this service says:
 
+[.embedded-content-document]
+--
+
 With other exercised brethren,
 I became engaged to plead for liberty to the black
 people who were held in the bonds of slavery,
@@ -217,6 +253,8 @@ the Truth favoring us to do it in a way that gave general satisfaction.
 I thought I never felt a greater reward than in pleading the cause of those poor,
 injured, captive people.
 
+--
+
 This subject continued to claim the attention of Philadelphia Yearly Meeting until reports
 were made from the subordinate meetings that they were all clear from this evil.
 Having washed its own hands,
@@ -234,6 +272,9 @@ fervent prayers for the removal of this unspeakable wickedness from our land.`"
 
 The description of slavery and its attendant evils given by that warm-hearted minister,
 Jacob Lindley, of Chester County, Pa., is equally earnest:
+
+[.embedded-content-document]
+--
 
 When I view the dreadful scenes of barbarity attendant on the African slave trade,
 and its train of concurrent circumstances,
@@ -278,10 +319,13 @@ at the escape of a captive white from among the Indians; yet,
 what a stir when a negro attempts his liberty!
 Advertisements printed, and rewards offered to take him alive or dead!
 
-Henry Hull mentions in his Journal having a meeting at Crooked Run in Virginia, in 1799.
-"`At this meeting,`" he
+--
 
-says:
+Henry Hull mentions in his Journal having a meeting at Crooked Run in Virginia, in 1799.
+"`At this meeting,`" he says:
+
+[.embedded-content-document]
+--
 
 I was led to expose the iniquity of the slave trade,
 and the practice of holding the African race in bondage.
@@ -406,6 +450,8 @@ and the bereaved wife with her infant in her arms,
 went up to heaven on behalf of themselves, and especially for the poor young man,
 who had been so inhumanly torn away from them.
 
+--
+
 In these days, when slavery is no longer tolerated by the laws of our country,
 it is interesting to observe the bold and honest
 labors of faithful Friends in former days,
@@ -416,6 +462,9 @@ Joseph Hoag travelled in the Southern States sixty or seventy years ago,
 and was much distressed at the condition and sufferings of the black people,
 and the want of humanity in their masters.
 He says:
+
+[.embedded-content-document]
+--
 
 In musing on the situation of the country, sleep often left me, and my appetite failed;
 I became feeble and feverish,
@@ -440,12 +489,18 @@ they were always brought to acknowledge that it was
 wrong to hold their fellow creatures in slavery,
 and were convinced it was contrary to every attribute of the Divine Being.
 
+--
+
 He adds: "`They appeared to be standing against Divine justice and mercy,
 with their eyes open.
 But God will not be mocked forever, neither will his justice always slumber.`"
 How fearfully was this prediction verified in our late calamitous war!
 
+[.offset]
 On one occasion he says:
+
+[.embedded-content-document]
+--
 
 I saw a master beat a black man wickedly, with a knotty cudgel;
 it moved my feelings so much,
@@ -457,6 +512,8 @@ and continued my speech until he sat down, kept quiet and hung his head.
 He heard me through, and then acknowledged it was not right to hold them in slavery,
 or treat them as they did.
 
+--
+
 William Savery mentions in his journal that,
 when on a religious visit in the Southern States,
 he stopped at the house of a hard-hearted slaveholder, near Savannah.
@@ -465,6 +522,9 @@ was ordered to milk the cows, and falling asleep through weariness,
 the master ordered him to be flogged.
 William says: "`We went to supper, and this unfeeling wretch craved a blessing,
 which I considered to be equally abhorrent to the Divine Being as his curses.`"
+
+[.embedded-content-document]
+--
 
 In the morning, whilst at the door musing, I heard some one begging for mercy,
 and also the lashes of a whip.
@@ -479,6 +539,8 @@ Returning to the house, I saw the landlord, who then showed himself in his true 
 the most abominably wicked man I ever met with,
 full of horrid execrations and threatenings upon all the Northern people;
 but I did not spare him.
+
+--
 
 It would be unjust to suppose that all those who held slaves treated them with cruelty,
 but it was one of the bad features of the system of slavery,
@@ -495,6 +557,7 @@ cared for and humanely treated while in slavery.
 The old people would bless the Lord,
 for having been permitted a few years of freedom before they were taken away.
 
+[.blurb]
 === Extracts From Thomas Shillitoe`'s Journal
 
 When this devoted servant of Christ was engaged in ministerial labor in this country,
@@ -505,6 +568,9 @@ it is well to revert occasionally to some of its incidents if only for the purpo
 of enabling us rightly to estimate the evil which has been removed,
 and to quicken emotions of gratitude for the great deliverance.
 The following memorandums were made in the Tenth Month, 1827:
+
+[.embedded-content-document]
+--
 
 Fifth-day morning we again pursued our journey, crossed the Ohio river in a horse-boat,
 and landed in Kentucky, a slave holding State;
@@ -592,6 +658,9 @@ I found it laid upon me to open my mind freely to him on the iniquitous
 practice of dealing in or keeping in bondage our fellow creatures,
 and to warn him against pursuing such evil courses.
 
+--
+
+[.blurb]
 === Thomas Shillitoe and the Slave Trader
 
 Previous to the downfall of slavery,
@@ -604,6 +673,9 @@ and turn the attention of these guilty men to the requirements
 of that holy religion of which they made profession.
 A visit of this nature, paid by our Friend, Thomas Shillitoe, in the Eleventh Month,
 1827, is thus related in his Journal:
+
+[.embedded-content-document]
+--
 
 My mind had been occupied with an apprehension of
 religious duty to make a visit to a great slave-merchant,
@@ -717,3 +789,5 @@ was so changed that he was pleasant to look upon.
 Everything about his elegant house and his yards,
 told in plain terms that he considered himself living
 in continual danger of losing his life.
+
+--
