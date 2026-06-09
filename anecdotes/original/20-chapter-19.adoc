@@ -8,6 +8,10 @@ At the time Samuel Fothergill was preparing to sail for England,
 having finished his religious service in this country,
 Ellen Evans wrote the following letter to his sister Ann:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Sixth Month, 1756.
 
 Though I am a stranger to thy person, yet not so to the good character thou bears,
@@ -64,9 +68,13 @@ I often do believe God has a peculiar regard to the seed of the righteous; such,
 dear friends, you are.
 May the blessing of your father`'s God rest plentifully on all your heads.
 
+[.signed-section-closing]
 Accept the love of one of thy father`'s old friends,
 
+[.signed-section-signature]
 Ellen Evans
+
+--
 
 When information of the removal from the church militant
 of John Evans reached Samuel Fothergill,
@@ -74,6 +82,10 @@ he felt bound in spirit to address an epistle of tender sympathy
 and love to the bereaved Ellen (the author of the above letter),
 and of exhortation and encouragement to her children.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Warrington, Second Month 4th, 1757.
 
 That affectionate regard which Truth itself raised mutually in our hearts,
@@ -110,9 +122,15 @@ and know this dispensation sanctified and blessed to all your help,
 in renewing diligent care to live and move, that when the great Shepherd shall appear,
 and all his faithful servants with Him, your portion may be among them forever.
 
+--
+
 The following letter was written by Samuel Fothergill,
 to a young man who had gone astray, and for whose welfare he was deeply interested:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Joseph Baker, Jr.
 
 A degree of anxious concern for thee induces me thus to address thee;
@@ -184,15 +202,22 @@ to which thou are hastening, and bring every thought and action to judgment;
 be diligent and faithful in business, but above all,
 be diligent in making provision for thy poor soul.
 
+[.signed-section-closing]
 Farewell,
 
+[.signed-section-signature]
 Samuel Fothergill
+
+--
 
 In the love which he felt for his brethren,
 and for the great cause they were ordained to support and spread in the earth,
 George Fox often addressed them in tender affection,
 to strengthen and animate them to diligence.
 In 1654, he says:
+
+[.embedded-content-document.letter]
+--
 
 Oh, Friends! look not out, for he that doth is darkened.
 And take heed of lightness; take heed of the world,
@@ -233,11 +258,21 @@ Therefore walk in the light of Christ, whose light doth justify you;
 who then shall condemn you?
 Therefore in that dwell which doth condemn all the evil in the world.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Gilbert Thompson
 
+[.signed-section-context-open]
 Warrington, Sixth Month 29th, 1760.
 
-Dear Cousin:--I believe I should be out of the way of my duty if I did not impart to
+[.salutation]
+Dear Cousin:
+
+I believe I should be out of the way of my duty if I did not impart to
 thee and thy sisters a dream or vision that was represented to me the last night,
 and perhaps the interpretation of it may be brought home to your own hearts.
 
@@ -266,13 +301,19 @@ Here I awaked in great concern of mind,
 and found an engagement to impart it immediately to thyself and sisters.
 None other knows the least tittle of it, nor shall, from your most affectionate
 
+[.signed-section-signature]
 Samuel Fothergill
+
+--
 
 Gilbert Thompson was greatly esteemed, in the station of elder,
 and filled several other offices in the Society.
 He died between seven and eight years after this letter was written.
 The circumstances attending his closing scene are thus instructively
 described in a letter from Samuel Fothergill to Samuel Emlen:
+
+[.embedded-content-document.letter]
+--
 
 Our worthy friend and kinsman, Gilbert Thompson,
 hath been in a declining state for some time,
@@ -318,8 +359,13 @@ to fill up the measure of revealed duty,
 and to stand on the watch for further discoveries,
 what is the will of the Lord our God respecting us.
 
+--
+
 The following was written by Francis Howgill, for the encouragement of Friends,
 in a time of close trial by persecution:
+
+[.embedded-content-document]
+--
 
 The cogitations of my heart have been many, deep and ponderous some months,
 weeks and days,
@@ -347,7 +393,8 @@ and publish it among all my people, that they may be comforted, and thou satisfi
 And thus said the living God of heaven and earth;
 upon the twenty-eighth day of the Third Month, 1662:
 
-Possibly format differently in Jones the below quotes from God:
+[.small-break]
+'''
 
 "`The sun shall leave its shining brightness, and cease to give light to the world;
 and the moon shall be altogether darkness, and give no light unto the night;
@@ -381,13 +428,24 @@ but at last my heart was filled with joy,
 even as when the ark of God was brought from the house of Obed-Edom,
 when David danced before it, and Israel shouted for joy.`"
 
+[.signed-section-signature]
 Francis Howgill
 
-An Epistle of William Leddra, to Friends,
-Written by Him the Day Before He was Put to Death.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+An Epistle of William Leddra
+
+[.centered]
+To Friends, Written by Him the Day Before He was Put to Death.
+
+[.salutation]
 To the Society of the little flock of Christ, grace and peace be multiplied.
 
+[.salutation]
 Most Dear and Inwardly Beloved!
 
 The sweet influences of the morning star,
@@ -477,13 +535,20 @@ for without grace possessed there is no assurance of salvation;
 "`By grace ye are saved,`" and the witnessing of it is sufficient for you,
 to which I commend you all, my dear friends, and in it remain your brother.
 
+[.signed-section-signature]
 William Leddra
 
+[.signed-section-context-close]
 Boston Jail, the thirteenth of the First Month, 1660-61.
+
+--
 
 What a noble letter was that addressed by Sarah Grubb to her dear friend,
 Richard Shackleton, when very ill of smallpox.
 It was dictated four days before her death:
+
+[.embedded-content-document]
+--
 
 Thy salutation met me, though apparently out of course, in the right time,
 being under impressions which make time and circumstances of little account,
@@ -500,8 +565,13 @@ amidst all our weakness and conflicts of flesh and spirit,
 an interest is mercifully granted in Him who giveth victory over death,
 hell and the grave.
 
+--
+
 Thomas Story relates that before he had joined the Society of Friends,
 at the time of the assizes at Carlisle, he went to a meeting near that city.
+
+[.embedded-content-document]
+--
 
 During the time of the meeting I found an unusual load on my spirit,
 and hardness in my heart; insomuch that I could hardly breathe under the oppression;
@@ -639,6 +709,12 @@ In the morning I went up toward the hall where the judges sat,
 expecting to be called as a witness,
 but found that the dispute had been settled by private agreement.
 
+--
+
+[.embedded-content-document]
+--
+
+[.letter-heading]
 A Testimony of Friends in Pennsylvania Concerning their Deceased Friend and Governor,
 William Penn.
 
@@ -712,6 +788,8 @@ yet the love of God remained with him,
 and his sense thereof was frequently strong and evident, and, we doubt not,
 the blessing of the Almighty was his Omega.
 
+--
+
 Elizabeth L. Redman, a minister of Haddonfield, N. J.,
 in 1836 attended the Yearly Meeting of Virginia.
 On her return from it the following incident occurred:
@@ -752,9 +830,14 @@ She then took kind leave of him, much to the relief of her own mind.
 He did not recover from this indisposition,
 but after this interview became greatly humbled and changed.
 
+[.blurb]
 === Reflections in a Storm
 
+[.offset]
 James Backhouse mentions the following incident:
+
+[.embedded-content-document]
+--
 
 1835, Fifth Month 6th.--A storm came on in the night, in which,
 on reflecting upon the many snares that are in the world,
@@ -778,9 +861,14 @@ Therefore we will not fear, though the waters roar and be troubled,
 though the mountains shake with the swelling thereof; for the Lord of Hosts is with us,
 the God of Jacob is our refuge, and blessed be his holy Name forever.
 
+--
+
 The following instructive incident, recorded by Thomas Scattergood,
 during his journey in North Carolina in 1792, seems worthy of being revived at this time,
 as an encouragement to individual faithfulness:
+
+[.embedded-content-document]
+--
 
 Eleventh Month 15th.--After a good opportunity in the family,
 we set off before the sun was up, and rode to Spring meeting.
@@ -818,6 +906,9 @@ called Spring meeting, which we were at today,
 and this Friend is a valuable minister amongst them.
 We had a favored meeting.
 
+--
+
+[.blurb]
 === How John Parker was Made to Quake, and How He Became a Quaker
 
 John Parker was born in Wilmington, in the State of Delaware, in the year 1748.
@@ -889,6 +980,7 @@ and through the effectual working of the Lord`'s preparing Spirit,
 and a gift in the ministry of the Gospel committed to him,
 he was soon qualified for usefulness in the church of Christ.
 
+[.blurb]
 === A Brand Plucked From the Burning
 
 James Backhouse thus describes the case of a prisoner
@@ -896,6 +988,9 @@ whom he met with in Van Diemen`'s Land,
 whither he had been sent as a convict.
 He lost an arm some time before, and, whilst in imminent danger from this accident,
 was awakened to a sense of his sinful condition:
+
+[.embedded-content-document]
+--
 
 He said the Lord found him when he sought Him not,
 yet so strongly did he feel his own desperate wickedness,
@@ -955,10 +1050,13 @@ as he never could have thought of whilst he remained in sin.
 When he became awakened he found himself in ignorance also,
 and since that time he had learned to read.
 
-[.asterism]
-'''
+--
 
+[.offset]
 James Backhouse relates the following:
+
+[.embedded-content-document]
+--
 
 The superstition of sailors often leads them to attribute
 a tedious voyage to having some unlucky person in the vessel.
@@ -972,6 +1070,9 @@ and have felt the force of the declaration: "`Where the spirit of the Lord is,
 there is liberty;`" the reverse of which is also true.
 Here there is a want of regard for this Spirit, and little ear to hear.
 
+--
+
+[.blurb]
 === Grace at Table
 
 When taking a meal with pious persons, I was frequently requested to give thanks.
@@ -998,6 +1099,7 @@ we were sensible of a greater measure of Divine influence, which comforted our m
 under the belief that the Father of mercies condescended more decidedly,
 to mark this homage with approbation.
 
+[.blurb]
 === The Way to Salvation
 
 We left Launceston on the seventh, and reached Kelvedon again on the ninth,
@@ -1027,6 +1129,7 @@ and giving a perception of the mercy of God in his beloved Son,
 and of the state of the soul before Him, and of other truths progressively,
 as there is a preparation of heart to receive them.
 
+[.blurb]
 === Fruits of Disobedience
 
 In the afternoon we visited an ironed-gang +++[+++in New South Wales]
@@ -1069,6 +1172,7 @@ expressive of their sense of the suffering under which they have brought themsel
 by having multiplied their offences,
 so as to incur the extra-coercive discipline of this part of our penal laws.
 
+[.blurb]
 === How a Drowsy Friend was Cured of Sleeping in Meetings
 
 On one occasion, while in meeting, she fell asleep, and dreamed in substance as follows:
@@ -1102,6 +1206,7 @@ and deposited a blessing in the lap of her next neighbor.
 The shock completely aroused her,
 and it was said she was ever after cured of sleeping in meeting.
 
+[.blurb]
 === Severe Reproof
 
 When John Churchman, in ministering to the people at North Wales, had, as he tells us,
@@ -1120,6 +1225,9 @@ This reflection did not make him lower the standard of Truth,
 deliver its testimonies deceitfully,
 or tend in any wise to make him one of those who sew pillows under armholes.
 In a subsequent visit he thus wrote:
+
+[.embedded-content-document]
+--
 
 One meeting we were at was remarkably hard, and my companion was exceedingly exercised,
 under a sense that the people were too rich, full and whole in their own eyes,
@@ -1151,6 +1259,8 @@ To be becomingly bold in the cause of Truth, at times is particularly necessary,
 otherwise the weight of the testimony thereof would be lessened,
 and a carping spirit be set over it.
 
+--
+
 Leonard Fell, a son of judge Fell, travelling one time, was attacked by a highwayman,
 who demanded his money, which he gave him.
 Then he desired to have his horse.
@@ -1166,7 +1276,11 @@ The robber was so astonished that he declared, if he was such a man as that,
 he would take neither his money nor his horse from him,
 and returning both to the faithful Friend, went his way.
 
+[.offset]
 In the year 1682, Benjamin Bangs, visited Ireland, of which he says:
+
+[.embedded-content-document]
+--
 
 In this nation I travelled up and down in the work of the Gospel, and had good service,
 many being convinced by means of my ministry.
@@ -1191,7 +1305,13 @@ and the place of your meeting will not be found.
 At this meeting a young man, a papist, was convinced,
 as were many more elsewhere in the north and other parts.
 
+--
+
+[.offset]
 He continued his travels several months, in the course of which, he says:
+
+[.embedded-content-document]
+--
 
 As I was going from Antrim to the Grange, I saw ten or twelve men upon the road,
 walking in a solitary manner, and it arose in my heart,
@@ -1226,10 +1346,15 @@ they would find it would lead them into all Truth, with many words to this effec
 They were well pleased, declaring at parting,
 that they had never heard things so opened to them in their lives.
 
+--
+
 John Churchman relates an incident which shows the
 importance of those who make a profession of religion,
 living so on their guard, as not to stumble the young and inexperienced.
 He says:
+
+[.embedded-content-document]
+--
 
 I remember a person was once at my father`'s,
 who spoke about religious matters with an affected tone, as if he was a good man;
@@ -1240,8 +1365,13 @@ I believed that a man whose mind was sweetened with Divine love,
 would not speak wrathfully or diminutively of the beasts of the field,
 which were given to man for his use.
 
+--
+
 When William Jackson was in England on a religious visit his health seemed to fail,
 which, he says:
+
+[.embedded-content-document]
+--
 
 It put me on thinking whether it could be required of me to travel so,
 and I turned my mind a good deal homewards.
@@ -1253,6 +1383,8 @@ In my sleep I reflected on myself for coming away so precipitately,
 and was much concerned how I should get back to the Yearly Meeting in London.
 When I awoke I felt a degree of thankfulness that I was where I was.
 
+--
+
 It is a blessed experience in time of danger to have an unshaken
 trust in the goodness and protecting care of the Almighty.
 
@@ -1261,6 +1393,9 @@ he encountered a violent storm, which lasted for two nights and a day, and which
 he says, was "`truly terrible,`" reminding him of Addison`'s line: "`When wave on wave,
 and gulf on gulf, o`'ercame the pilot`'s art.`"
 He says, in a letter to his family:
+
+[.embedded-content-document]
+--
 
 It seemed, at times, as if the briny waves would soon swallow us up;
 yet I never really lost my confidence,
@@ -1288,6 +1423,8 @@ yet I could not cast away my confidence.
 My all I surrendered up to his disposal, not once wishing myself on shore,
 nor in another vessel.
 
+--
+
 This devoted servant in this,
 verified in measure the truth of the psalmist`'s declaration:
 "`God is our refuge and strength; a very present help in trouble;
@@ -1295,12 +1432,16 @@ therefore will ye not fear, though the earth be removed,
 and though the mountains be carried into the midst of the sea;
 though the waters thereof roar and be troubled.`"
 
+[.blurb]
 === An Instructive Dream
 
 Thomas Shillitoe, although a comparatively poor man,
 felt it his duty to sacrifice part of his property,
 that he might devote himself more fully to the service of his Divine Master.
 While struggling with a sense of this requisition, he had the following dream:
+
+[.embedded-content-document]
+--
 
 I saw before me a straight but very narrow path, gradually rising,
 at the foot of which stood a man very simply attired,
@@ -1358,11 +1499,17 @@ When I awoke, the danger which I seemed to have escaped on both hands,
 but more especially that on my left, made such an impression on my mind that,
 for several days afterwards, little besides it came before me.
 
+--
+
+[.blurb]
 === Faithful Service
 
 When Ebenezer Worth was living at Tunesassah among the Indians,
 he had a severe attack of sickness.
 His diary says, under date of Second Month, 1848:
+
+[.embedded-content-document]
+--
 
 While sick,
 I was brought to feel a degree of love and concern
@@ -1441,6 +1588,9 @@ it would have been better for him to have died than got to using ardent spirits.
 I parted with them both in kind, good feelings,
 and had great reason to be thankful for the preservation and favors of that day.
 
+--
+
+[.blurb]
 === John Evan`'s Suit Against Friends
 
 This trial, which excited considerable interest in Philadelphia at the time,
@@ -1478,6 +1628,7 @@ the committee who deliver them to the party concerned.
 
 The verdict of the jury was one-half cent damages for John Evans, but no costs.
 
+[.blurb]
 === Anecdote Respecting John Crook
 
 Our friend John Griffith informed Robert Dudley, that John Crook,
@@ -1544,6 +1695,7 @@ He continued for three years after this quite silent as a minister;
 and about the expiration of that time, again appeared in the ministry in a few words,
 as in his first beginning, and gradually experienced an enlargement in his gift.
 
+[.blurb]
 === Incident in the Ministry of Joseph Hoag
 
 At Starksboro Monthly Meeting, Vermont, Joseph Hoag rose and repeated,
@@ -1569,6 +1721,7 @@ they were not willing to be turned; and so were like Ephraim,
 "`Cakes not turned,`" and could not be made useful
 in the household and family of the Lord.
 
+[.blurb]
 === Resist Temptation
 
 John Salkeld was in attendance at a meeting where,
@@ -1617,6 +1770,7 @@ relief from all his misgivings,
 and filled him with satisfaction in believing that his faithfulness in an apprehended
 duty had been savingly blessed to a candidate for immortality and eternal life.
 
+[.blurb]
 === Settling a Difference
 
 Joseph Carrington was a minister, residing in Pennsylvania.
@@ -1672,6 +1826,7 @@ They both arose and shook hands, and remained good friends ever after.
 Thus was settled a difficulty which had caused much
 trouble to the meeting for several years.
 
+[.blurb]
 === Sermon by James Simpson,Delivered at Frankford, PA., a Few Months Before His Decease
 
 What I am now going to relate is but a simple story,

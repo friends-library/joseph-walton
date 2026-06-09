@@ -43,6 +43,9 @@ The Journal of Joseph Wood mentions the convincement
 of several persons through the agency of [.book-title]#The Apology#.
 It says:
 
+[.embedded-content-document]
+--
+
 The day after the Quarterly Meeting held at Leeds, Joshua Priestman, of Pickering,
 breakfasted at the same Friend`'s house as myself.
 On inquiring of him concerning a certain young man
@@ -107,11 +110,16 @@ and brought to the acknowledgment of the Truth,
 as laid down in [.book-title]#Barclay`'s Apology#,
 and became valuable members of the Society of Friends.
 
+--
+
 The following testimony to the efficacy of the Holy Spirit,
 and also to the value of [.book-title]#Barclay`'s Apology#,
 is extracted from a letter dated Twelfth Month 24th, 1834, from Deborah Cope,
 then travelling with Dugan and Asenath Clark, in New York and New England meetings,
 and addressed to Sarah Emlen:
+
+[.embedded-content-document]
+--
 
 We paid Moses Brown a visit, who enquired affectionately for thee, and desired his love;
 he says thou mayest come back to N. E., and he, for one, will be glad to see thee.
@@ -151,7 +159,9 @@ attended last Yearly Meeting, and promises to be a consistent one.
 The following is an extract from his letter to Moses Brown,
 and will speak his own language:
 
-This is a letter wiuthin a block quotation, so mark up differently in Jones:
+[.small-break]
+'''
+
 "`At last my mind became so exercised that I was constrained to leave
 the Institution in quest of a people who believed in [.book-title]#Barclay`'s Apology#,
 and if I could not find such a people I determined to worship the Lord alone;
@@ -176,11 +186,15 @@ unless taught of the same Spirit.
 And oh! that all who may read this letter might feel
 the necessity of being taught of God,
 of sitting as little children at the Saviour`'s feet,
-and learning of him who was meek and low of heart.
+and learning of him who was meek and low of heart.`"
 
+[.signed-section-closing]
 Farewell,
 
+[.signed-section-signature]
 G+++.+++ W. R.
+
+--
 
 Sir James Mackintosh, in his [.book-title]#Revolution in England#,
 designates [.book-title]#Barclay`'s Apology# "`a master-piece of ingenious reasoning,
@@ -267,6 +281,8 @@ who had loaned him [.book-title]#Barclay`'s Apology#.
 It was understood that R. Peters, previously to his perusal of Barclay,
 had entertained and expressed unfavorable opinions of the Quakers and their principles:
 
+[verse]
+____
 For Barclay`'s learned Apology, is due
 My hearty thanks and gratitude to you.
 The more I read, the more my wonder`'s raised,
@@ -285,6 +301,7 @@ With the censorious world, no more I`'ll sin
 In damning those who own the light within.
 If they can see with Barclay`'s piercing eyes,
 The world may deem them fools, but I shall think them wise.
+____
 
 The esteem in which the author of this valuable treatise was held by his friends
 is shown by the testimonies respecting him left by George Fox and William Penn.
@@ -309,6 +326,9 @@ The Lord raise up many more faithful laborers to stand in his place.`"
 The sterling quality of Robert Barclay is, perhaps,
 best delineated by his contemporary and faithful friend, William Penn,
 who thus describes him:
+
+[.embedded-content-document]
+--
 
 He was distinguished by strong mental powers, particularly by great penetration,
 and a sound and accurate judgment.
@@ -346,6 +366,8 @@ it may be said that piety and virtue were recommended by his example; and that,
 though the period of his life was short, he had, by the aid of Divine Grace,
 most wisely and happily improved it.
 
+--
+
 The death of this worthy man was a fitting close to his life.
 In the year 1690 he was seized with a violent fever.
 On his deathbed he was in a truly peaceful, resigned and Christian frame of mind.
@@ -379,6 +401,9 @@ How strong were his compunctions,
 how deep his contrition and how great his change of heart,
 may be learned from a letter he addressed to the Monthly Meeting:
 
+[.embedded-content-document]
+--
+
 Dear Friends:--It hath lain heavy upon me for some time
 to write a few lines to you upon the following subject:
 
@@ -394,6 +419,8 @@ raising strong desires in me to return to Him, the Redeemer of my soul.
 The consideration of which has raised in my heart a just abhorrence of my former practices,
 that induces me to make this public declaration of them,
 which I desire to do in a few words.
+
+--
 
 When Rebecca Hubbs, of New Jersey, had come under the government of Christ,
 she felt a call to declare unto others what the Lord had done for her soul.
@@ -417,6 +444,9 @@ The individual who thus unexpectedly spoke so suitably to her case,
 was that worthy minister, the late Arthur Howell, of Philadelphia,
 who had been attending the Quarterly Meeting of Salem.
 In the Journal of William Williams, the following interesting incidents are entered.
+
+[.embedded-content-document]
+--
 
 Now I think proper to relate a circumstance which took place as I was travelling,
 which was as follows:
@@ -532,7 +562,13 @@ from whom cometh that which teaches within,
 being the true light that lighteth every one that cometh into the world,
 which is the Spirit of God, which leads up to Him, and enables us to become his children.
 
+--
+
+[.offset]
 William Williams, of Tennessee, says in his Journal:
+
+[.embedded-content-document]
+--
 
 I think proper to relate here, a singular circumstance concerning a little girl,
 whose father rode sometime with me, when I was first in the State of New Jersey,
@@ -584,6 +620,12 @@ I go to my Father and his Father, there to wait for his coming.`"
 So, on the next day she quietly departed this life, when I was in Virginia,
 on my way to these parts.
 
+--
+
+[.embedded-content-document]
+--
+
+[.blurb]
 === Copy of a Testimony of William Williams, Who Departed This Life About the First of the Ninth Month, 1824, Delivered About a Week Before His Death
 
 It is well known to many on our continent that I have lived an active life,
@@ -634,6 +676,9 @@ but under the influence of the inshining light of the ever blessed Gospel,
 wherein I may say, that I feel many who have seen and heard me very near to my best life,
 hoping ere long we shall meet in the mansions of eternal peace.
 
+--
+
+[.blurb]
 === Mildred Ratcliff
 
 The following tribute to the memory of a beloved minister of the Gospel,
@@ -671,6 +716,8 @@ His grain ripened sooner than that of his neighbors and they went into his field
 and gathered it;
 so that on his return home he found Mildred`'s prediction had been fulfilled.
 
+[verse]
+____
 There is an eagle brightness in that eye,
 Whence radiant sparks of inspiration fly;
 There is a witchery in that fluent tongue,
@@ -739,7 +786,9 @@ The buoyant spirit, like a bird let fly,
 Shall join the church triumphant, in the sky.
 Father of mercies, from this harvest home,
 May seed be scattered and fresh verdure come!
+____
 
+[.blurb]
 === A Weak-Minded Christian
 
 He was the son of pious parents, who had, as the Lord opened the way for it,
@@ -766,38 +815,48 @@ arm of mercy towards this weak child,
 his Christian parents rejoiced even in tribulation.
 In respect to him the following lines were written:
 
+[verse]
+____
 We had a weak and tender one,
 Unfitted for the storms of life;
 With him the work of death begun,
 And he was safely housed from strife.
+
 A timid child, and wont to cling,
 For safely to his mother`'s side,--
 He needed her protecting wing,--
 He needed her to cheer and guide.
+
 Of feeble mind,--yet firm to bear
 In patient grief,--as day by day,
 Strong agony `'twas his to share,
 Till all life`'s vigor wore away.
+
 He could suppress each pain-stirred groan
 Yet feared he to be left alone:
 He would have viewed with thought of dread
 Heaven`'s open gates before him spread,--
+
 Since in that holy happy place
 Maternal care he feared to miss,
 And not a dear familiar face,
 Would welcome to its bowers of bliss.
+
 But Heavenly love was round his bed
 To soothe all fears that might annoy,
 And death laid off all looks of dread,
 Before he touched the timid boy.
+
 He knew not `'twas his time to die,
 Without a groan, without a sigh,--
 He left his crippled form, to spring,
 A babe of grace on cherub wing:
+
 To feel adoring praises move,
 Amid the white robed ransomed host,--
 And in the flow of Heavenly Love,
 To find all fears and weakness lost.
+____
 
 Lines suggested by a re-perusal of the _Testimony
 of Tottenham Monthly Meeting concerning Thomas Shillitoe_,
@@ -805,6 +864,8 @@ who deceased Sixth Month, 1836, aged eighty-two years.
 (See _Friends`' Library_, vol.
 3.)
 
+[verse]
+____
 And now beneath the weight of fourscore years,
 Not rusted, or in self-indulgence spent,
 Thy path of faithful dedication nears
@@ -858,6 +919,7 @@ Our earth-encumbered spirits, make them hear
 Thy word, "`come forth,`" arise, that thus there may
 A living army instrumental be
 In bringing sons from far, and daughters as from earth`'s remotest sea.
+____
 
 Peter Gardiner, a Friend who lived in Essex, had a concern to visit Friends in Scotland,
 but being in low circumstances, and having a wife and several children,
@@ -964,6 +1026,9 @@ he came to want bread before he died.
 The following notice of Anthony Purver and his translation
 of the Bible is attributed to Hartley Coleridge.
 
+[.embedded-content-document]
+--
+
 Anthony Purver was a Quaker, poorer and less educated than most of his brethren;
 by trade a shoemaker.
 Can any one assign a reason why so many shoemakers have
@@ -1003,8 +1068,13 @@ and it can never be written again,
 for the language of prose is one of the few things
 in which the English have really degenerated.
 
+--
+
+[.blurb]
 === To the Memory of George Dillwyn
 
+[verse]
+____
 Fully ripe, like the ear for the reaper,
 He met the pale messenger`'s word;
 Oh! sweet is the sleep of the sleeper
@@ -1054,12 +1124,17 @@ That rests in the name of the Lord.
 Rest from thy loved employ--
 Thy walk of glory done--
 Enter thy Master`'s joy.`"
+____
 
+[.blurb]
 === Samuel Fothergill, William Hunt and John Woolman
 
-Lines written to the memory of Samuel Fothergill,
-William Hunt and John Woolman.--Written 1772.
+[.blurb]
+__Lines written to the memory of Samuel Fothergill,
+William Hunt and John Woolman.--Written 1772.__
 
+[verse]
+____
 Whence, oh, my friend, that sadly pensive sigh?
 Whence those descending sympathetic tears?
 Has thy firm bosom met some adverse shock?
@@ -1146,12 +1221,17 @@ The young encourage, animate the weak;
 Comfort the mourners, strengthen those who faint,
 That Zion thus may shake herself, and shine
 With the bright lustre of her ancient days.`"
+____
 
+[.blurb]
 === To Daniel Wheeler
 
-On hearing him say,
-in answer to a friend who queried respecting his home,--"`I have no home.`"
+[.centered]
+__On hearing him say,
+in answer to a friend who queried respecting his home,--"`I have no home.`"__
 
+[verse]
+____
 Pilgrim and stranger as thou art on embassy of love,
 The messenger of Gospel Truth, an heir of rest above,
 Well mayst thou say there is no spot from which thou shalt not roam,
@@ -1196,11 +1276,16 @@ Loved ones thou hast; for life to thee has been one favored chain
 Whose golden links, tho`' severed now, will re-unite again,
 Where faith shall end in glorious sight, where partings never come,
 And prayer be turned to endless praise in thy eternal home.
+____
 
+[.signed-section-signature]
 Susan H. Loyd
 
+[.blurb]
 === Addenda to Susan Loyd`'s Lines to Daniel Wheeler
 
+[verse]
+____
 In frost-bound Russia, she who shared thy bosom`'s joy and care,
 Laid down in peace her weary head, her Master`'s joy to share;
 From sea-girt isles, against whose base old ocean`'s surges come,
@@ -1220,9 +1305,12 @@ To hear the mandate from above that calls thy spirit home.
 The victory won, the soldier leaves the field of toil and care.
 The house eternal of our God, the everlasting dome
 Is now the resting-place of him who had on earth no home.
+____
 
+[.signed-section-signature]
 Joseph Kite
 
+[.blurb]
 === Our Gallery--Northern District Meeting
 
 The following lines,
@@ -1231,6 +1319,8 @@ Northern District meeting of Friends in Philadelphia,
 fifty or sixty years ago, were found after his decease,
 among the papers of the late Joseph Kite, author of [.book-title]#The Arm Chair#.
 
+[verse]
+____
 Gone are our princes! and the common lot
 Records their lives--they were and they are not!
 Man bows submissive as death`'s shaft is hurled,
@@ -1277,9 +1367,13 @@ In every age a remnant will be found
 To do his bidding, in his grace abound;
 Go in and out before the people, clad
 In that bright armor that makes Israel glad.
+____
 
+[.blurb]
 === Jerusha Curtis
 
+[verse]
+____
 `'Mid briars and thorns a gaudy flower-bush grew;
 Bowed bruised to earth, abroad its odors threw;
 For soon a storm swept through the bright parterre,
@@ -1303,6 +1397,7 @@ Towards the Saviour--till she humbly stood
 A living witness of his cleansing blood.
 Then for his cause she raised her voice of praise,
 And died in hope--rejoicing in his ways.
+____
 
 Jerusha Curtis died on Third-day, the eighteenth of Fifth Month, 1830,
 aged about fifty-one years, after a long and suffering illness.
@@ -1310,8 +1405,11 @@ She had many domestic afflictions, which tended to her purification.
 She was an honest minister of the Gospel,
 who bought the Truth for a price and sold it not.
 
+[.blurb]
 === Leonard Snowden
 
+[verse]
+____
 Thy meek, kind look--thy penetrating eye--
 Thy earth-bowed form--thy thought ascending high--
 Thy steady gathering to the house of prayer--
@@ -1336,12 +1434,16 @@ Still Leonard Snowden held a certain place
 With men far entered in the sceptic race.
 In placid eve his sun went down in peace,
 And he was gathered where all conflicts cease.
+____
 
 This beloved elder died the twentieth of Sixth Month, 1832,
 aged about eighty-one years and three months.
 
+[.blurb]
 === Edward Randolph
 
+[verse]
+____
 Strong in thy will and purpose, earlier life
 Saw thee a combatant in martial strife,
 Where drums and trumpets fired the angry mood
@@ -1358,9 +1460,13 @@ The final combat ended, loosed amain,
 The passport gained through struggling and through pain,
 Safely, we trust, thy weary feet have pressed
 Through swelling Jordan, to the land of rest!
+____
 
+[.blurb]
 === Ann Maule, Martha Rose, Sarah Smith and Israel Maule
 
+[verse]
+____
 Others through quiet seas have laid their prow,
 Where scarce a ripple could their courses show;
 Yet they as safely in the haven rest,
@@ -1374,15 +1480,22 @@ Such Sarah Smith, if studious to fulfill
 The known requirings of the Master`'s will.
 Such Israel Maule, clean-handed, and with heart
 Ready to suffer his allotted part.
+____
 
+[.offset]
 Ann Maule, an overseer, died Third Month 13th, 1833, in her forty-ninth year.
 
+[.offset]
 Martha Rose was an overseer, Sarah Smith a minister.
 
+[.offset]
 Israel Maule, an elder, died Eleventh Month 25th, 1828, in his fiftieth year.
 
+[.blurb]
 === Mary Taylor
 
+[verse]
+____
 Faithful amid contumely and broil,
 Gainst adverse billows with her friends to toil,
 Bearing her cross where rose derisions wild,
@@ -1393,9 +1506,13 @@ Her age`'s stay, the promise of her youth.
 Mary Taylor, an elder.
 During the Separation, being faithful to the ancient principles of the Society,
 she was a mark for the arrows of the enemies at Green Street Meeting.
+____
 
+[.blurb]
 === Jane Snowden
 
+[verse]
+____
 When by the resurrection of thy Lord,
 Quickened to preach the everlasting Word,
 Awe-struck and trembling:--with each period`'s swell,
@@ -1426,11 +1543,16 @@ Her dying tongue brought solemnly to view,
 And from the passage sweet instruction drew.
 Thus in her gift she labored to the last,
 Till time was finished and probation past!
+____
 
+[.offset]
 This beloved minister died Fourth Month 18th, 1837, in her eighty-third year.
 
+[.blurb]
 === Othniel Alsop
 
+[verse]
+____
 When the disciples faint, mid gloom and doubt,
 Scarce in the battle held the combat out,
 A living faith upheld thee, in the hour
@@ -1449,11 +1571,16 @@ Beside thy grave the tribute just was paid,
 As Othniel Alsop in the grave was laid,
 That faithful in his ministry, he proved
 A zealous servant to a cause he loved.
+____
 
+[.offset]
 He died Twelfth Month 8th, 1836, in his sixty-sixth year.
 
+[.blurb]
 === Thomas Bacon
 
+[verse]
+____
 In golden harvest; when thy sun was high,
 E`'er Autumn left thy branches seared and dry,
 A burden-bearer, with bowed neck to feel
@@ -1480,12 +1607,16 @@ Bacon, we love thy memory!--we deem
 The church`'s loss thy passage from this scene;
 We deem the cause that made thy true heart break,
 A wound received for thy dear Master`'s sake!
+____
 
 Thomas Bacon, an overseer, died on Seventh-day evening, the twenty-third of Tenth Month,
 1838, in the forty-ninth year of his age.
 
+[.blurb]
 === Timothy Paxson
 
+[verse]
+____
 All native talent never yet sufficed,
 The strong man bowed, must be a babe in Christ:
 Thou mayst have deemed thy wisdom but as dross,
@@ -1510,11 +1641,15 @@ That e`'er the world receded from thy view,
 Old things discarded, all things became new,
 That Paxson found, his earthly covering riven,
 A robe of righteousness through faith was given!
+____
 
 Timothy Paxson, an elder, died Fourth Month 21st, 1839, in his seventy-fifth year.
 
+[.blurb]
 === Rebecca Richardson
 
+[verse]
+____
 Rebecca Richardson, a few short years,
 Sat here amid our prophets and our seers.
 Steadfast to ancient principles, she ran
@@ -1534,9 +1669,13 @@ Rebecca Richardson, a minister, died Tenth Month 16th, 1840, in her sixty-fourth
 During the early period of the Separation, she resided in Bucks Co.,
 and heartily joined with her friends in opposition to the unsound
 sentiments then promulgated by some bearing the name of Quakers.
+____
 
+[.blurb]
 === Rachel Bartram
 
+[verse]
+____
 Caught in the Gospel net, thy trappings gay,
 Ribbons and flounces, all were torn away!
 Self-will that stooped not to the Christian yoke,
@@ -1565,12 +1704,16 @@ The ripened harvest did the toil repay,
 When Death`'s keen sickle cut in haste away;
 But in the garner, where the wheat is stored,
 Has Rachel Bartram entered to her Lord!
+____
 
 Rachel Bartram, an overseer was suddenly called hence on Third-day, Twelfth Month 7th,
 1841, in her fifty-second year.
 
+[.blurb]
 === Catharine Sheppard
 
+[verse]
+____
 Without a thought that needed art`'s disguise,
 Open and obvious to the gazer`'s eyes,
 Did Catharine Sheppard undissembling stand,
@@ -1584,11 +1727,15 @@ Modern inventions for the ease of man,
 To slip to heaven upon some other plan,
 Her honest nature threw indignant by,
 Choosing the path Fox trod to victory!
+____
 
 Catharine Sheppard, a beloved elder, died Twelfth Month 15th, 1842, aged eighty years.
 
+[.blurb]
 === William Hallowell
 
+[verse]
+____
 Of modest worth, of unpresuming merit,
 With the meek covering of a quiet spirit,
 Did William Hallowell his portion share,
@@ -1598,9 +1745,13 @@ Who rose victorious from the grave again.
 
 William Hallowell had been an overseer till released on account of infirm health.
 He died Second Month 24th, 1843, in his seventy-first year.
+____
 
+[.blurb]
 === Lydia Dean
 
+[verse]
+____
 Thy weary pilgrimage at length is done!
 Through sore affliction was the victory won.
 No flowery way towards Zion didst thou trace,
@@ -1621,6 +1772,7 @@ Earth was receding from thy failing sight,
 When o`'er thy features shone a heavenly light,
 "`Sweet Jesus now has come`" thou joyful cried--
 And Lydia Dean was by her Saviour`'s side.
+____
 
 Her certificate was received by the meeting in the Third Mo., 1844.
 She never attended the Select Preparative Meeting.
@@ -1681,6 +1833,9 @@ when he wrote: "`No pain, no palm; no thorns, no throne; no gall, no glory; no c
 no crown.`"
 
 Respecting a visit to the Catholic bishop of Kilkenny, Thomas Shillitoe says:
+
+[.embedded-content-document]
+--
 
 On our arrival at the house we were ordered up-stairs,
 where the bishop received us with great civility; ushered us into a room;
@@ -1746,6 +1901,8 @@ under a sense of faithfulness in cooperating with the help mercifully vouchsafed
 to deliver what to me appeared to be the whole counsel of my Divine Master,
 and my companions, that I was helped to get through to my own relief.
 
+--
+
 There can be no doubt that much mischief attends the false
 belief that the priests can absolve their hearers of sin.
 Instead of lessening crime, it must encourage it,
@@ -1766,10 +1923,13 @@ having served the Lord in their generation, had died in peace.
 His feelings became warm,
 and at the top of his powerful voice he broke out in the words of Addison:
 
+[verse]
+____
 "`How are thy servants blest, O Lord!
 How sure is their defence!
 Eternal Wisdom is their guide,
 Their help Omnipotence.`"
+____
 
 Such a voice as his echoed far and wide.
 A neighbor, who was passing along the road at the time,
@@ -1877,6 +2037,7 @@ or a single dance after he went into the room that day;
 but that they all departed to their respective homes
 as though they had been at a Quaker meeting.
 
+[.blurb]
 === The Last Interview Between Christopher Healy and Ruth Ely
 
 At the close of Bucks Quarterly Meeting, held the twenty-sixth of Second Month, 1851,
@@ -1981,8 +2142,11 @@ other than the natural inclinations of the heart.
 Nothing had been said to Christopher about it, and at the time he felt the impression,
 he was not aware that any present held such views.`"
 
-Fourth Month 15th, 1849.
-At the house of a friend, Christopher said:
+[.offset]
+Fourth Month 15th, 1849. At the house of a friend, Christopher said:
+
+[.embedded-content-document]
+--
 
 I suppose that there are few members of our religious Society now
 living who have passed through sorer trials of their faith,
@@ -2103,7 +2267,13 @@ He will put a new song into thy mouth, even praises to our God; yea,
 He will enable thee to sing a song of deliverance, even one of the holy songs of Zion,
 to his praise.
 
+--
+
+[.offset]
 In one of his instructive conversations, Christopher said:
+
+[.embedded-content-document]
+--
 
 I remember when I was in England,
 I had one day eaten something which gave me severe pain;
@@ -2205,8 +2375,13 @@ as thou may see fit, promising thee not to be offended thereat.`"
 To all which he gave his assent,
 saying it would be very weak in either of us to get affronted.
 
+--
+
 After the judge had stated a few of his objections against Friends`' doctrines,
 Christopher said:
+
+[.embedded-content-document]
+--
 
 "`Now, Paul Todd, from what thou saidst in meeting this morning,
 and from what thou sayst now, I think I understand precisely where thou art;
@@ -2281,6 +2456,8 @@ He appeared somewhat affected, and we parted friendly.
 But before my return home from that journey, Paul Todd was no more.
 Whilst walking in his garden one day, he fell down and expired.
 
+--
+
 The late Christopher Healy was not only an eminently favored minister of the Gospel,
 but in private conversation was unusually interesting and instructive,
 so that there often seemed a measure of the same holy anointing
@@ -2289,6 +2466,9 @@ that was present in his ministerial communications.
 On one such occasion Christopher Healy had been speaking of a Friend,
 poor as to this world, in whom he felt much interested, and who had lately,
 in the usual course been acknowledged a minister in our Society, when he thus continued:
+
+[.embedded-content-document]
+--
 
 As poor as +++_______+++ may be, if he will but keep his place, keep low,
 and look to the Master, I have no fear for him.
@@ -2359,6 +2539,8 @@ I had just one piece of money left, and that was a half dollar.
 But I soon got into a school and began to earn something;
 and am preserved unto this day to praise the Lord, and to tell of his wondrous works,
 and of his goodness to the children of men.
+
+--
 
 These remarks of Christopher, writes the Friend who heard and who penned this account,
 are very striking in themselves,
