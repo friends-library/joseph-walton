@@ -440,7 +440,7 @@ Francis Howgill
 An Epistle of William Leddra
 
 [.centered]
-To Friends, Written by Him the Day Before He was Put to Death.
+__To Friends, Written by Him the Day Before He was Put to Death.__
 
 [.salutation]
 To the Society of the little flock of Christ, grace and peace be multiplied.
@@ -1827,7 +1827,7 @@ Thus was settled a difficulty which had caused much
 trouble to the meeting for several years.
 
 [.blurb]
-=== Sermon by James Simpson,Delivered at Frankford, PA., a Few Months Before His Decease
+=== Sermon by James Simpson, Delivered at Frankford, PA., a Few Months Before His Decease
 
 What I am now going to relate is but a simple story,
 and it is probable some of you have heard me tell it before;

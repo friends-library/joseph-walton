@@ -975,6 +975,7 @@ They all replied it was.
 
 --
 
+[.blurb]
 === Marriage
 
 Among a people who lived in such close communion
