@@ -530,7 +530,7 @@ and pay but as one.
 [.signed-section-signature]
 Arlington
 
-[.signed-section-closing]
+[.signed-section-context-close]
 At the Court at Whitehall, 13th of September, 1572.
 
 But though we had this warrant from the king,

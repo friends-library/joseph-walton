@@ -714,12 +714,12 @@ ____
 [.blurb]
 === The Deserted Meetinghouse
 
-[verse]
-____
 This sketch refers to Upper Springfield Meetinghouse, Burlington County, N. J.,
 and was written by Dr. Joseph Pancoast, a distinguished surgeon of Philadelphia, who,
 when young, belonged to and attended that meeting.
 
+[verse]
+____
 "`How few the years that youth and age divide,
 And yet of startling change how sadly rife!`"
 Thus, o`'er a blighted shrine, a pilgrim sighed,
@@ -910,6 +910,9 @@ __Bishop__--Yes, I am.
 [.discourse-part]
 __John Roberts__--I am glad of that, for the root is rottenness,
 and Truth strikes at the very foundation thereof.
+
+[.small-break]
+'''
 
 He further told the bishop that the clergy pretended to know more of light,
 life and salvation, and things pertaining to the kingdom of heaven, than others;

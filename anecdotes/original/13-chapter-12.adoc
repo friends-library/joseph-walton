@@ -783,7 +783,7 @@ __How the Women Went from Dover.__^
 footnote:[The following is a copy of the warrant, issued by Major Waldron of Dover,
 in 1662.
 {footnote-paragraph-split}
-To the Constables of Dover, Hampton, Salisbury,
+"`To the Constables of Dover, Hampton, Salisbury,
 Newbury, Rowley, Ipswich, Wenham, Lynn, Boston, Roxbury, Dedham,
 and Until these Vagabond Quakers are Carried Out of this Jurisdiction
 {footnote-paragraph-split}
@@ -800,7 +800,7 @@ and this shall be your warrant.
 Dated at Dover, December 22,
 1662.
 {footnote-paragraph-split}
-Richard Waldron
+Richard Waldron`"
 {footnote-paragraph-split}
 This
 warrant was executed only in Dover and Hampton.
