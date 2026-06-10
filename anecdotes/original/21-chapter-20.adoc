@@ -1,6 +1,10 @@
 == Chapter XX. Social and Conversational
 
+[.offset]
 Under date of 1653, Sewell says:
+
+[.embedded-content-document]
+--
 
 The number of the professors of the Light +++[+++Quakers]
 increased greatly, and as it had been said, at first,
@@ -39,6 +43,8 @@ Hence it was, that often, when any came into a town and wanted something, they w
 that is a Quaker?`"
 Now, the cause of their trade so increasing was,
 because they were found upright in their dealings.
+
+--
 
 In the early days of our Society,
 when Friends were everywhere spoken against and persecuted,
@@ -122,8 +128,11 @@ and the other was a member of our Society, well known afterwards,
 not only among her fellow-members, but in the literary circles of the day,
 as Mary Knowles.
 
+[.blurb]
 === Clergyman
 
+[verse]
+____
 Hark! how the sacred thunder rends the skies!
 "`Repent and be baptized,`" Christ`'s herald cries;
 "`Repent and be baptized,`" consenting Heaven replies.
@@ -155,9 +164,13 @@ But if such jargon Jesus represents,
 The light, indeed, is only lent to saints,
 Then in the letter, double death we find;
 And Christ in figure only saved mankind.
+____
 
+[.blurb]
 === The Answer
 
+[verse]
+____
 Hark! how the sacred thunder rends the skies,
 "`Repent and be baptized,`" Christ`'s herald cries!
 "`Repent and be baptized,`" consenting Heaven replies.
@@ -227,8 +240,13 @@ A baptism this, essential you will find,
 Or, "`Christ in figure only saves mankind.`"
 `'Tis this alone my suppliant spirit craves,
 Since but one _Lord, one Faith, one Baptism_ saves.
+____
 
+[.offset]
 In the Journal of John Churchman, the following anecdote is inserted:
+
+[.embedded-content-document]
+--
 
 Before going to Holland,
 I was several times in the shop of a barber in this city (Norwich, England),
@@ -267,6 +285,8 @@ He seemed affected with the information,
 and I desired him to inquire into the matter for himself,
 and not to think that I designed to impose upon him.
 
+--
+
 On a subsequent visit, the conversation turning upon the study of algebra,
 in which the barber was engaged,
 John Churchman availed himself of the opportunity of turning the attention of
@@ -274,7 +294,11 @@ this inquiring man to the far greater moment of a more profitable and delightful
 study--that of being quietly employed in learning the law of the Lord,
 written in our own hearts, that we might be enabled to walk acceptably before Him.
 
+[.offset]
 He says:
+
+[.embedded-content-document]
+--
 
 On my return from Scotland to Norwich, a man ran to me in the street,
 putting a paper in my hand, and immediately left me, whom I soon found to be this barber.
@@ -288,8 +312,13 @@ that his love might be centered on the true Beloved of souls;
 for want whereof many are hurt looking outward and growing in head knowledge,
 seeking the esteem and friendship of man.
 
+--
+
+[.blurb]
 === The March of Refinement
 
+[verse]
+____
 Sons and daughters of Fox, from your slumbers awake ye,
 No longer in listless indulgence recline!
 From the fetters of sloth and luxury break ye,
@@ -359,11 +388,16 @@ Vain hope of blind man! in his fond self deceiving,
 Whilst immutably true stands the Saviour`'s own word;
 Happy they, who, its sacred assurance receiving,
 In lowliness follow their crucified Lord.
+____
 
+[.blurb]
 === My Psalm
 
+[.centered]
 J+++.+++ G. Whittier
 
+[verse]
+____
 I mourn no more my vanished years:
 Beneath a tender rain,
 An April rain, of smiles and tears
@@ -384,7 +418,6 @@ To harvest weed and tare;
 The manna, dropping from God`'s hand,
 Rebukes my painful care.
 
-$$.$$
 I break my pilgrim staff;
 I lay
 Aside the toiling oar;
@@ -450,11 +483,16 @@ And so the shadows fall apart,
 And so the west winds play;
 And all the windows of my heart
 I open to the day.
+____
 
+[.blurb]
 === The Friend`'s Burial
 
+[.centered]
 J+++.+++ G. Whittier
 
+[verse]
+____
 My thoughts are all in yonder town,
 Where, wept by many tears,
 Today my mother`'s friend lays down
@@ -559,7 +597,9 @@ From scheme and creed the light goes out,
 The saintly fact survives;
 The blessed Master none can doubt
 Revealed in holy lives.
+____
 
+[.blurb]
 === Anecdote of John Parker
 
 One day,
@@ -591,8 +631,11 @@ and those who have felt their blessed Master`'s presence
 crowning their labors in his cause,
 have the privilege of feeling inward peace and manifesting outward cheerfulness.
 
+[.blurb]
 === Lines Composed on Travelling Through a Snow-Storm to Attend Caln Quarterly Meeting, in America, Second Month, 1817, by Mary Naftel
 
+[verse]
+____
 Through woods and wilds, o`'er hills and dales I stray,
 From Albion`'s fertile valleys far away;
 From Albion`'s Isle, the land that gave me birth,
@@ -624,9 +667,13 @@ Be thou my guide, my counsellor and friend,
 And safe conduct me to the journey`'s end;
 That praise and glory only may be Thine,
 And peace and gladness be forever mine.
+____
 
+[.blurb]
 === Sarah Cresson
 
+[verse]
+____
 Melodious singer of heart-thrilling songs,
 Of Zion`'s injuries and Israel`'s wrongs,
 Whose lonely harp still on the willow hung,
@@ -663,9 +710,13 @@ Baptized in tears was many a cheek that day,
 As Sarah Cresson told her chequered way,
 `'Twas her last Gospel labor here of love,--
 Mercy soon gathered her to praise above.
+____
 
+[.blurb]
 === The Deserted Meetinghouse
 
+[verse]
+____
 This sketch refers to Upper Springfield Meetinghouse, Burlington County, N. J.,
 and was written by Dr. Joseph Pancoast, a distinguished surgeon of Philadelphia, who,
 when young, belonged to and attended that meeting.
@@ -824,6 +875,7 @@ Deem we not well such memories of the dead,
 May stone outweigh in tributary worth,
 And o`'er their slumbers holier halos spread
 Than towering pyramids or piles of earth?
+____
 
 At a social gathering of members of our Society, at Haddonfield, N. J.,
 at the time of the Quarterly Meeting,
@@ -850,11 +902,14 @@ for though there are many sects (which he named),
 and though they and we differ in some circumstances, yet in fundamentals we agree as one.
 But, I observe, you, of all others, strike at the very root and basis of our religion.`"
 
-John Roberts.--Art thou sensible of that?
+[.discourse-part]
+__John Roberts__--Art thou sensible of that?
 
-Bishop.--Yes, I am.
+[.discourse-part]
+__Bishop__--Yes, I am.
 
-John Roberts.--I am glad of that, for the root is rottenness,
+[.discourse-part]
+__John Roberts__--I am glad of that, for the root is rottenness,
 and Truth strikes at the very foundation thereof.
 
 He further told the bishop that the clergy pretended to know more of light,
@@ -899,6 +954,9 @@ When in London, Thomas went with an older brother to call upon a near relative,
 where he met with a priest, who was a stranger to him.
 Thomas says:
 
+[.embedded-content-document]
+--
+
 This strange priest, not knowing the relation among us,
 and looking upon me as a bird of a different feather,
 began to peck at me by several sour hints, which showed his dislike of my company; which,
@@ -937,12 +995,17 @@ Then said he, "`Sir, this gentleman is my near relation.
 You will get nothing by meddling with him on these subjects.`"
 So the matter dropped.
 
+--
+
 Still another incident in the experience of Thomas Story was revived,
 in which he was led, in right authority,
 closely to reprove an unfaithful professor of the same doctrines as himself.
 
 At a meeting in the city of Bristol, where many people of other societies were present,
 he says:
+
+[.embedded-content-document]
+--
 
 It became my concern, from the Spirit of Truth, to stand up therein,
 with this prophecy of the apostle,
@@ -976,6 +1039,8 @@ that we have ever directed mankind,
 that they may be taught by his grace and Holy Spirit in their own hearts,
 and redeemed from all the hireling teachers in the world.`"
 
+--
+
 Some days after this sermon was delivered, a man,
 "`rich and high in the world,`" who professed to be a Friend,
 yet secretly supported the priests by paying their demands,
@@ -989,6 +1054,9 @@ and that their language showed that the Scriptures quoted were justly applicable
 "`and to thyself too, as of the same spirit and work with them.`"
 And he added:
 
+[.embedded-content-document]
+--
+
 "`It is my work and business, as often as I have the same authority,
 in the life of the Divine, eternal Truth, to expose all false teachers and hirelings,
 as also all hypocrites, and covetous, presumptuous worldlings among ourselves,
@@ -1000,6 +1068,8 @@ or the small dust that weighs nothing.
 And such an one art thou.`"
 With more to the same effect; which was not pleasing, yet being his due,
 I did not think proper to defraud him of it.
+
+--
 
 Though one illustration of the manner in which the servants
 of Christ are sometimes led to reprove that which is evil,
@@ -1069,6 +1139,7 @@ the linings would become faded and torn, and it would all go to ruin.
 But the carriage in which he was travelling to heaven, would never become old,
 but would always remain as strong and good as it was now!`"
 
+[.blurb]
 === An Evening`'s Conversation
 
 The opportunity for social converse among Friends from different neighborhoods,
@@ -1260,8 +1331,11 @@ John Brown continued to reside in Philadelphia,
 respected and esteemed amongst his fellow-professors and his neighbors, to his death,
 which occurred about two years after the above certificate was issued.
 
+[.blurb]
 === The Neglected Call
 
+[verse]
+____
 When the field was white to harvest, and the laborers were few,
 Heard I thus a voice within me, "`There is work for thee to do;
 Come thou up and help the reapers; I will show thee now the way.
@@ -1324,6 +1398,7 @@ Follow after these my reapers, let thine eyes be on the field,
 Gather up the precious handfuls their abundant wheat-sheaves yield.
 Go not hence to glean, but tarry, from the morning till the night,
 Be thou faithful, thou mayest yet find favor in thy Master`'s sight.`"
+____
 
 Sarah Lynes +++[+++afterwards Grubb]
 mentions in one of her letters, that when at Bath:
@@ -1340,6 +1415,9 @@ were thoroughly equal to any capacity given me to endure.`"
 
 Mary Ann Schimmelpennick describes the same scene with more details.
 She says:
+
+[.embedded-content-document]
+--
 
 As my mother grew better, she frequently took me with her to the pump-room,
 and she sometimes told me anecdotes of those she had seen there when a child.
@@ -1372,9 +1450,14 @@ Side by side with the Quaker, she walked to the door of the pump-room,
 and then resumed her seat.
 This lady was the celebrated countess of Huntingdon.
 
+--
+
 The following experience of Thomas Ellwood, in 1660,
 illustrates the position taken by Friends of that day on the first day of the week.
 He says:
+
+[.embedded-content-document]
+--
 
 I had been at Reading, and set out from thence on the first day of the week,
 in the morning,
@@ -1553,6 +1636,8 @@ It added not a little to my joy,
 that I felt the Lord near unto me by his witness in my heart to check and warn me,
 and that my spirit was so far subjected to Him as readily to take warning.
 
+--
+
 With joy and thankful congratulations his friends at Chalfont, welcomed his return.
 They had been anxious about him, knowing that he intended to be with them at meeting.
 
@@ -1640,6 +1725,9 @@ Those who are concerned to live in communion with their Heavenly
 Father are often enabled to communicate instruction to others,
 even in the course of their ordinary conversation.
 The late Rachel Price mentions that:
+
+[.embedded-content-document]
+--
 
 In the year 1782, in the Fifth Month, I was in the city of Philadelphia.
 In passing down Second Street, near Market,
@@ -1752,12 +1840,18 @@ No doubt I stood more in need of counsel at that time in the common walks of
 domestic concerns than in the more sublime views of the mysteries of the kingdom,
 which are hid from the wise and prudent of this world and revealed to babes.
 
+--
+
+[.blurb]
 === John Richardson
 
 When in America, he met with a remarkable deliverance from peril, in going from Salem,
 Massachusetts, to Dover.
 There was a river to cross.
 He says:
+
+[.embedded-content-document]
+--
 
 A Friend took my horse, with two more, into the boat,
 and by the time I came to the river side the boat was sinking,
@@ -1805,9 +1899,16 @@ and got to his house about midnight,
 where we were glad and our hearts were full of praises to
 the Lord for this great and eminent deliverance and preservation.
 
+--
+
+[.blurb]
 === Anecdote of John Richardson
 
+[.offset]
 John Richardson says when in this land:
+
+[.embedded-content-document]
+--
 
 Having it on my mind to visit a meeting up the river called Perquimons,
 west of the river Choptank, and being on the east side,
@@ -1861,10 +1962,16 @@ and when He hath tried me,
 I shall come forth as gold;`" and the more vehement the fire is,
 the more it destroys the dross, and the more pure and weighty the gold is.
 
+--
+
+[.blurb]
 === A Tribute to Departed Worth
 
-Thoughts during Philadelphia Yearly Meeting for 1862
+[.centered]
+_Thoughts during Philadelphia Yearly Meeting for 1862_
 
+[verse]
+____
 Once more to the old gathering place we come,
 A band of sisters, to our solemn feast;
 Our swelling ranks in reverent silence wait
@@ -1949,8 +2056,13 @@ My heart rejoices in your high estate,
 But mourns the loss of friends so good and true;
 Its greenest memories of departed worth,
 Its holiest aspirations live with you.
+____
 
+[.blurb]
 === Samuel Fothergill`'s Acknowledgement
+
+[.embedded-content-document]
+--
 
 I know my sins are so many, and so obvious to every one,
 that it is impossible and needless to recount and remark upon them;
@@ -1980,6 +2092,8 @@ may remember me when it is well with you; and that I may be again preserved,
 though beset with many temptations on every hand.
 The Lord in mercy be near you, saith my soul.
 
+--
+
 His father remained in America two years.
 He had parted from Samuel with feelings of intense anxiety and disapprobation,
 even to sternness; and although he had received consoling accounts of his change,
@@ -2007,6 +2121,7 @@ After such a parting as had been between them, what a meeting was this!
 The good old man wept and rejoiced over his son with no common joy,
 receiving him as one restored to him from the dead.
 
+[.blurb]
 === Conversion of Samuel Neale
 
 Samuel Neale inherited from his grandfather a good estate,
@@ -2026,6 +2141,9 @@ like an irresistible torrent, insurmountable;
 so I went like a man bereft of understanding.`"
 
 He was soon, however, effectually arrested in his wild career.
+
+[.embedded-content-document]
+--
 
 I remember being at a play one evening, up late that night,
 and lying pretty long next morning, which was First-day.
@@ -2080,3 +2198,5 @@ which far exceeded every gratification that I knew before in this life.
 My hunger and thirst after righteousness were great;
 I delighted much in reading and retirement;
 worldly things had no charms for me at this season, when the new creation began to dawn.
+
+--
