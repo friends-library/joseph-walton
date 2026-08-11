@@ -178,7 +178,7 @@ wherein the witnesses swore I spoke those blasphemous
 words which the priests accused me of;
 and these, being men of integrity and reputation in the country,
 did declare and affirm in court,
-That the oath which the witnesses had taken against me was altogether false;
+that the oath which the witnesses had taken against me was altogether false;
 and that no such words as they had sworn against me were spoken by me at that meeting.
 Indeed, most of the serious men of that side of the country, then at the sessions,
 had been at that meeting, and had heard me both at that and other meetings also.
@@ -337,7 +337,7 @@ When George Fox was asked in court whether he would take the oath or not, he rep
 "`You have given me a book to kiss and to swear on,
 and this book which you have given me to kiss, says:
 '`Kiss the Son,`' and the Son says in this book, '`Swear not at all:`' and so says, also,
-the apostle James 1 say as the book says, yet you imprison me.
+the apostle James say as the book says, yet you imprison me.
 How come you do not imprison the book for saying so?
 How comes it that the book is at liberty among you which bids me not to swear,
 and yet you imprison me for doing as the book bids me?`"
